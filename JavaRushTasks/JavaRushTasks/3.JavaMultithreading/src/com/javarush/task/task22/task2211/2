@@ -1,0 +1,388 @@
+Стандартные потоки
+
+Все языки программирования обеспечивают поддержку стандартного ввода/вывода, где программа пользователя может произвести ввод посредством клавиатуры и осуществить вывод на экран компьютера. Если вы знакомы с языками программирования C либо C++, вам должны быть известны три стандартных устройства STDIN, STDOUT и STDERR. Аналогичным образом, Java предоставляет следующие три стандартных потока:
+
+    Стандартный ввод ? используется для перевода данных в программу пользователя, клавиатура обычно используется в качестве стандартного потока ввода, представленного в виде System.in.
+    Стандартный вывод ? производится для вывода данных, полученных в программе пользователя, и обычно экран компьютера используется в качестве стандартного потока вывода, представленного в виде System.out.
+    Стандартная ошибка ? используется для вывода данных об ошибке, полученной в программе пользователя, чаще всего экран компьютера служит в качестве стандартного потока сообщений об ошибках, представленного в виде System.err. 
+
+Ниже представлена простая программа, которая создает InputStreamReader для чтения стандартного потока ввода, до введения пользователем "q":
+Пример
+
+import java.io.*;
+public class ReadConsole {
+
+   public static void main(String args[]) throws IOException {
+      InputStreamReader inStRe = null;
+
+      try {
+         inStRe = new InputStreamReader(System.in);
+         System.out.println("Введите символы, символ 'q' для выхода.");
+         char a;
+         do {
+            a = (char) inStRe.read();
+            System.out.print(a);
+         } while(a != 'q');
+      }finally {
+         if (inStRe != null) {
+            inStRe.close();
+         }
+      }
+   }
+}
+
+Разместим представленный выше код в файле ReadConsole.java и попробуем скомпилировать и выполнить его согласно тому, как это представлено в следующей программе. Данная программа продолжает чтение и вывод одного и того же символа до нажатия 'q':
+
+$javac ReadConsole.java
+$java ReadConsole
+Введите символы, 'q' для выхода.
+proglang.su
+proglang.su
+q
+q
+
+Чтение и запись файла
+
+Как было указано выше, поток представляет собой последовательность данных. InputStream используется для считывания данных с источника, OutputStream служит для записи данных по месту назначения.
+
+Ниже представлена иерархия классов для управления потоками Ввода и Вывода.
+Java иерархия классов, чтение файла в Java, запись файла в Java, Java, потоки ввода/вывода, потоки ввода в Java, потоки вывода в Java
+
+В данном уроке нам предстоит рассмотреть два важных потока: FileInputStream и FileOutputStream.
+Поток FileInputStream ? чтение из файла
+
+Поток FileInputStream ? это поток, который используется в Java для чтения данных из файла. Объекты могут быть созданы при использовании ключевого слова new, доступны несколько типов конструкторов.
+
+Представленный конструктор использует имя файла в качестве потока с целью создания объекта входного потока для считывания файла:
+
+InputStream a = new FileInputStream("D:/myprogramm/java/test");
+
+Представленный ниже конструктор использует объектный файл с целью создания объекта входного потока для чтения файла. Сперва мы создаем объектный файл при использовании метода File() следующим образом:
+
+File a = new File("D:/myprogramm/java/test");
+InputStream a = new FileInputStream(a);
+
+Теперь, получив объект InputStream, следует ознакомиться со следующим перечнем вспомогательных методов, которые могут быть использованы для считывания потока либо выполнения иных операций в потоке.
+? 	Метод и описание
+1 	public void close() throws IOException{}
+Данный метод в Java закрывает выходной файловый поток. Освобождает какие-либо системные ресурсы, связанные с файлом. Выдает IOException.
+2 	protected void finalize()throws IOException {}
+Данный метод выполняет очистку соединения с файлом. Позволяет удостовериться в вызове закрытого метода данного выходного файлового потока при отсутствии каких-либо ссылок на данный поток. Выдает IOException.
+3 	public int read(int r)throws IOException{}
+Данный метод осуществляет в Java считывание заданных байтов данных из InputStream. Возврат данных типа int. Возврат следующего байта данных, в конце файла будет произведен возврат к -1.
+4 	public int read(byte[] r) throws IOException{}
+Данный метод производит считывание байтов r.length из входного потока в массив. Возврат общего числа считанных байтов. В конце файла будет произведен возврат к -1.
+5 	public int available() throws IOException{}
+Выдает число байтов, которые могут быть считаны из входного файлового потока. Возврат данных типа int.
+
+Существуют также другие доступные входные потоки, более детальные сведения о которых представлены по следующим ссылкам:
+
+    ByteArrayInputStream
+    DataInputStream
+
+Поток FileOutputStream ? создание и запись файла
+
+Поток FileOutputStream ? это поток, который используется в Java для создания файла и последующей записи в него. Поток создаст файл в случае его отсутствия перед его открытием для вывода.
+
+Далее представлены два конструктора, которые могут быть задействованы при создании объекта FileOutputStream.
+
+Представленный конструктор использует имя файла в качестве строки с целью создания объекта входного потока для записи файла в Java:
+
+OutputStream a = new FileOutputStream("D:/myprogramm/java/test") 
+
+Представленный ниже конструктор использует объектный файл с целью создания объекта выходного потока для записи файла. Сперва мы создаем объектный файл при использовании метода File() следующим образом:
+
+File a = new File("D:/myprogramm/java/test");
+OutputStream a = new FileOutputStream(a);
+
+Теперь, получив объект OutputStream, следует ознакомиться со следующим перечнем вспомогательных методов, которые могут быть использованы для записи потока либо выполнения иных операций в потоке.
+? 	Метод и описание
+1 	public void close() throws IOException{}
+Данный метод в Java закрывает выходной файловый поток. Освобождает какие-либо системные ресурсы, связанные с файлом. Выдает IOException.
+2 	protected void finalize()throws IOException {}
+Данный метод выполняет очистку соединения с файлом. Позволяет удостовериться в вызове закрытого метода данного выходного файлового потока при отсутствии каких-либо ссылок на данный поток. Выдает IOException.
+3 	public void write(int w)throws IOException{}
+Данный метод осуществляет запись заданного байта в выходной поток.
+4 	public void write(byte[] w)
+Запись байтов w.length из указанного массива байтов в OutputStream.
+
+Существуют также другие доступные выходные потоки, более детальные сведения о которых представлены по следующим ссылкам:
+
+    ByteArrayOutputStream
+    DataOutputStream
+
+Пример
+
+В следующем примере представлены InputStream и OutputStream ? потоки для чтения, создания и записи файла:
+
+import java.io.*;
+public class File {
+
+   public static void main(String args[]) {
+   
+      try {
+         char c[] = {'a','b','c'};
+         OutputStream output = new FileOutputStream("file.txt"); // Создание текстового файла
+         for(int i = 0; i < c.length; i++) {
+            output.write(c[i]); // Запись каждого символа в текстовый файл
+         }
+         output.close();
+     
+         InputStream input = new FileInputStream("file.txt");
+         int size = input.available();
+
+         for(int j = 0; j < size; j++) {
+            System.out.print((char)input.read() + " "); // Чтение текстового файла посимвольно
+         }
+         input.close();
+      }catch(IOException e) {
+         System.out.print("Exception");
+      }	
+   }
+}
+
+Представленный выше java-код создаст файл file.txt и пропишет заданные символы в формате char. То же самое будет выводиться на экран стандартного вывода.
+Навигация по файловой системе и вводу/выводу
+
+Существует ряд других классов, которые нам предстоит рассмотреть с целью ознакомления с основами навигации в файловой системе и вводу/выводу.
+
+    File Class
+    FileReader Class
+    FileWriter Class
+
+Каталоги в Java
+
+В Java каталог представлен Файлом, который может содержать список других файлов и каталогов. Используя объект File, вы можете создать каталог, прокрутить список файлов, представленных в каталоге. Для получения более детальных сведений, ознакомьтесь с перечнем всех методов, которые могут быть вызваны из объекта File, будучи связанными с каталогами.
+Создание каталогов
+
+Существуют два служебных метода File, которые могут быть использованы для создания каталогов:
+
+    Метод mkdir() позволяет создать папку в Java, возвращая значение true при успехе операции, и false в случае сбоя. Сбой свидетельствует о том, что путь указанный в объекте File уже существует, либо что каталог не может быть создан в связи с тем, что полный путь еще не существует.
+    Метод mkdirs() создает каталог и все вышестоящие каталоги.
+
+В следующем примере представлено создание папки "/java/proglang/newdir":
+Пример
+
+import java.io.File;
+public class CreateDirectory {
+
+   public static void main(String args[]) {
+      String nameDir = "/java/proglang/newdir";
+      File a = new File(nameDir);
+      
+      // Создание на диске папки и всех вышестоящих каталогов
+      a.mkdirs();
+   }
+}
+
+Скомпилируйте и выполните следующий код для создания каталога "/java/proglang/newdir".
+
+Примечание ? Java автоматически формирует разделители пути в UNIX и Windows с учетом соглашений. При использовании косой черты (/) при работе с Java в системе Windows, производится корректное разрешение пути.
+Список файлов в папке
+
+Метод list(), представленный объектом File, может быть использован для предоставления перечня всех файлов и каталогов, имеющихся в заданной папке, в следующем виде:
+Пример
+
+import java.io.File;
+public class ReadDirectory {
+
+   public static void main(String[] args) {
+      File pathDir = null;
+      String[] pathsFilesAndDir;
+  
+      try {      
+         // Создание нового объекта file
+         pathDir = new File("/NetBeans 8.2/Projects/ReadDirectory/ReadDirectory/"); // Обязательно должен существовать указанный каталог на диске, иначе программа выдаст ошибку
+
+         // Массив файлов и папок
+         pathsFilesAndDir = pathDir.list();
+
+         for(String path:pathsFilesAndDir) {
+            // Вывод списка файлов и каталогов
+            System.out.println(path);
+         }
+      }catch(Exception e) {
+         // Если произошла ошибка
+         e.printStackTrace();
+      }
+   } 
+}
+
+Вследствие этого будет получен следующий результат, основанный на каталогах и файлах, доступных в вашем каталоге /NetBeans 8.2/Projects/ReadDirectory/ReadDirectory/:
+
+build
+build.xml
+manifest.mf
+nbproject
+src
+ReadDirectory
+
+Источник: Java - Files and I/O.
+Оглавление
+
+    1. Java ? Самоучитель для начинающих
+    2. Java ? Обзор языка
+    3. Java ? Установка и настройка
+    4. Java ? Синтаксис
+    5. Java ? Классы и объекты
+    6. Java ? Конструкторы
+    7. Java ? Типы данных и литералы
+    8. Java ? Типы переменных
+    9. Java ? Модификаторы
+    10. Java ? Операторы
+    11. Java ? Циклы и операторы цикла
+    11.1. Java ? Цикл while
+    11.2. Java ? Цикл for
+    11.3. Java ? Улучшенный цикл for
+    11.4. Java ? Цикл do..while
+    11.5. Java ? Оператор break
+    11.6. Java ? Оператор continue
+    12. Java ? Операторы принятия решений
+    12.1. Java ? Оператор if
+    12.2. Java ? Оператор if..else
+    12.3. Java ? Вложенный оператор if
+    12.4. Java ? Оператор switch..case
+    12.5. Java ? Условный оператор (? :)
+    13. Java ? Числа
+    13.1. Java ? Методы byteValue(), shortValue(), intValue(), longValue(), floatValue(), doubleValue()
+    13.2. Java ? Метод compareTo()
+    13.3. Java ? Метод equals()
+    13.4. Java ? Метод valueOf()
+    13.5. Java ? Метод toString()
+    13.6. Java ? Метод parseInt()
+    13.7. Java ? Метод Math.abs()
+    13.8. Java ? Метод Math.ceil()
+    13.9. Java ? Метод Math.floor()
+    13.10. Java ? Метод Math.rint()
+    13.11. Java ? Метод Math.round()
+    13.12. Java ? Метод Math.min()
+    13.13. Java ? Метод Math.max()
+    13.14. Java ? Метод Math.exp()
+    13.15. Java ? Метод Math.log()
+    13.16. Java ? Метод Math.pow()
+    13.17. Java ? Метод Math.sqrt()
+    13.18. Java ? Метод Math.sin()
+    13.19. Java ? Метод Math.cos()
+    13.20. Java ? Метод Math.tan()
+    13.21. Java ? Метод Math.asin()
+    13.22. Java ? Метод Math.acos()
+    13.23. Java ? Метод Math.atan()
+    13.24. Java ? Метод Math.atan2()
+    13.25. Java ? Метод Math.toDegrees()
+    13.26. Java ? Метод Math.toRadians()
+    13.27. Java ? Метод Math.random()
+    14. Java ? Символы
+    14.1. Java ? Метод Character.isLetter()
+    14.2. Java ? Метод Character.isDigit()
+    14.3. Java ? Метод Character.isWhitespace()
+    14.4. Java ? Метод Character.isUpperCase()
+    14.5. Java ? Метод Character.isLowerCase()
+    14.6. Java ? Метод Character.toUpperCase()
+    14.7. Java ? Метод Character.toLowerCase()
+    14.8. Java ? Метод Character.toString()
+    15. Java ? Строки
+    15.1. Java ? Метод charAt()
+    15.2. Java ? Метод compareTo()
+    15.3. Java ? Метод compareToIgnoreCase()
+    15.4. Java ? Метод concat()
+    15.5. Java ? Метод contentEquals()
+    15.6. Java ? Метод copyValueOf()
+    15.7. Java ? Метод endsWith()
+    15.8. Java ? Метод equals()
+    15.9. Java ? Метод equalsIgnoreCase()
+    15.10. Java ? Метод getBytes()
+    15.11. Java ? Метод getChars()
+    15.12. Java ? Метод hashCode()
+    15.13. Java ? Метод indexOf()
+    15.14. Java ? Метод intern()
+    15.15. Java ? Метод lastIndexOf()
+    15.16. Java ? Метод length()
+    15.17. Java ? Метод matches()
+    15.18. Java ? Метод regionMatches()
+    15.19. Java ? Метод replace()
+    15.20. Java ? Метод replaceAll()
+    15.21. Java ? Метод replaceFirst()
+    15.22. Java ? Метод split()
+    15.23. Java ? Метод startsWith()
+    15.24. Java ? Метод subSequence()
+    15.25. Java ? Метод substring()
+    15.26. Java ? Метод toCharArray()
+    15.27. Java ? Метод toLowerCase()
+    15.28. Java ? Метод toString()
+    15.29. Java ? Метод toUpperCase()
+    15.30. Java ? Метод trim()
+    15.31. Java ? Метод valueOf()
+    15.32. Java ? Классы StringBuilder и StringBuffer
+    15.32.1. Java ? Метод append()
+    15.32.2. Java ? Метод reverse()
+    15.32.3. Java ? Метод delete()
+    15.32.4. Java ? Метод insert()
+    15.32.5. Java ? Метод replace()
+    16. Java ? Массивы
+    17. Java ? Дата и время
+    18. Java ? Регулярные выражения
+    19. Java ? Методы
+    20. Java ? Потоки ввода/вывода, файлы и каталоги
+    20.1. Java ? Класс ByteArrayInputStream
+    20.2. Java ? Класс DataInputStream
+    20.3. Java ? Класс ByteArrayOutputStream
+    20.4. Java ? Класс DataOutputStream
+    20.5. Java ? Класс File
+    20.6. Java ? Класс FileReader
+    20.7. Java ? Класс FileWriter
+    21. Java ? Исключения
+    21.1. Java ? Встроенные исключения
+    22. Java ? Вложенные и внутренние классы
+    23. Java ? Наследование
+    24. Java ? Переопределение
+    25. Java ? Полиморфизм
+    26. Java ? Абстракция
+    27. Java ? Инкапсуляция
+    28. Java ? Интерфейсы
+    29. Java ? Пакеты
+    30. Java ? Структуры данных
+    30.1. Java ? Интерфейс Enumeration
+    30.2. Java ? Класс BitSet
+    30.3. Java ? Класс Vector
+    30.4. Java ? Класс Stack
+    30.5. Java ? Класс Dictionary
+    30.6. Java ? Класс Hashtable
+    30.7. Java ? Класс Properties
+    31. Java ? Коллекции
+    31.1. Java ? Интерфейс Collection
+    31.2. Java ? Интерфейс List
+    31.3. Java ? Интерфейс Set
+    31.4. Java ? Интерфейс SortedSet
+    31.5. Java ? Интерфейс Map
+    31.6. Java ? Интерфейс Map.Entry
+    31.7. Java ? Интерфейс SortedMap
+    31.8. Java ? Класс LinkedList
+    31.9. Java ? Класс ArrayList
+    31.10. Java ? Класс HashSet
+    31.11. Java ? Класс LinkedHashSet
+    31.12. Java ? Класс TreeSet
+    31.13. Java ? Класс HashMap
+    31.14. Java ? Класс TreeMap
+    31.15. Java ? Класс WeakHashMap
+    31.16. Java ? Класс LinkedHashMap
+    31.17. Java ? Класс IdentityHashMap
+    31.18. Java ? Алгоритмы Collection
+    31.19. Java ? Iterator и ListIterator
+    31.20. Java ? Comparator
+    32. Java ? Дженерики
+    33. Java ? Сериализация
+    34. Java ? Сеть
+    34.1. Java ? Обработка URL
+    35. Java ? Отправка Email
+    36. Java ? Многопоточность
+    36.1. Java ? Синхронизация потоков
+    36.2. Java ? Межпоточная связь
+    36.3. Java ? Взаимная блокировка потоков
+    36.4. Java ? Управление потоками
+    37. Java ? Основы работы с апплетами
+    38. Java ? JavadocEmail
+    36. Java ? Многопоточность
+    36.1. Java ? Синхронизация потоков
+    36.2. Java ? Межпоточная связь
+    36.3. Java ? Взаимная блокировка потоков
+    36.4. Java ? Управление потока
