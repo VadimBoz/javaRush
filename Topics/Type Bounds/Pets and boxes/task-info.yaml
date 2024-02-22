@@ -1,0 +1,21 @@
+type: code
+files:
+  - name: src/Main.java
+    visible: true
+    highlight_level: NONE
+    text: |-
+      class Box //...finish the code of the class
+      
+      // Don't change the code below
+      class Animal { }
+    learner_created: false
+  - name: src/asfs.java
+    visible: true
+    learner_created: true
+feedback_link: https://hyperskill.org/learn/step/9884#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Sun, 07 Jan 2024 12:04:49 UTC"
+record: -1
+submission_language: java17

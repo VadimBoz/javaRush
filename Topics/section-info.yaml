@@ -1,0 +1,26 @@
+content:
+  - Input streams
+  - Try with resources
+  - Floating-point types
+  - Scanning the input
+  - Getters and setters
+  - Math library
+  - Declaring functionality with interfaces
+  - LocalDate
+  - LocalDateTime
+  - Debugging techniques
+  - Introduction to generic programming
+  - Keyword  super
+  - Lambda expressions
+  - Method references
+  - Functional interfaces
+  - Generic methods
+  - Type Bounds
+  - Inner classes
+  - Nested classes
+  - Period and Duration classes
+  - Method overriding
+  - Polymorphism
+  - Multidimensional array
+  - The Collections framework overview
+  - Processing strings
