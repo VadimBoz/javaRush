@@ -30,7 +30,10 @@
             <option value="$PROJECT_DIR$/Topics/Debugging techniques/Java Debugging  Truths   Techniques" />
             <option value="$PROJECT_DIR$/Topics/Debugging techniques/Proper tools" />
             <option value="$PROJECT_DIR$/Topics/Debugging techniques/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Declaring functionality with interfaces/Area of a circle" />
             <option value="$PROJECT_DIR$/Topics/Declaring functionality with interfaces/Implementing an interface" />
+            <option value="$PROJECT_DIR$/Topics/Declaring functionality with interfaces/Marker interface" />
+            <option value="$PROJECT_DIR$/Topics/Declaring functionality with interfaces/Modeling a School Scenario with Teachers and Students" />
             <option value="$PROJECT_DIR$/Topics/Declaring functionality with interfaces/Mutable geometric shapes" />
             <option value="$PROJECT_DIR$/Topics/Declaring functionality with interfaces/Properties of methods" />
             <option value="$PROJECT_DIR$/Topics/Declaring functionality with interfaces/Theory" />
@@ -76,6 +79,7 @@
             <option value="$PROJECT_DIR$/Topics/Inner classes/Why do we need inner classes" />
             <option value="$PROJECT_DIR$/Topics/Inner classes/Your vehicle" />
             <option value="$PROJECT_DIR$/Topics/Input streams/Byte vs character input streams" />
+            <option value="$PROJECT_DIR$/Topics/Input streams/Convert to bytes" />
             <option value="$PROJECT_DIR$/Topics/Input streams/Count words" />
             <option value="$PROJECT_DIR$/Topics/Input streams/Read into an array" />
             <option value="$PROJECT_DIR$/Topics/Input streams/Reverse input text" />
@@ -125,6 +129,7 @@
             <option value="$PROJECT_DIR$/Topics/LocalDateTime/The passed hours since the beginning of year" />
             <option value="$PROJECT_DIR$/Topics/LocalDateTime/Theory" />
             <option value="$PROJECT_DIR$/Topics/Math library/Existing methods" />
+            <option value="$PROJECT_DIR$/Topics/Math library/Heron's formula" />
             <option value="$PROJECT_DIR$/Topics/Math library/Match method callings and their results" />
             <option value="$PROJECT_DIR$/Topics/Math library/Method from java.lang.Math class and their results" />
             <option value="$PROJECT_DIR$/Topics/Math library/Pow" />

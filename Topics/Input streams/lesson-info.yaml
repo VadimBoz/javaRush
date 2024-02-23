@@ -4,3 +4,4 @@ content:
   - Count words
   - Read into an array
   - Byte vs character input streams
+  - Convert to bytes

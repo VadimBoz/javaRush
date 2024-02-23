@@ -4,7 +4,51 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2ae9b21b-a47f-48dd-96ed-04b31d94a8b6" name="Changes" comment="" />
+    <list default="true" id="2ae9b21b-a47f-48dd-96ed-04b31d94a8b6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Input streams/Convert to bytes/Java_Problems.Topics-Input_streams-Convert_to_bytes.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Input streams/Convert to bytes/Java_Problems.Topics-Input_streams-Convert_to_bytes.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Input streams/Convert to bytes/Java_Problems.Topics-Input_streams-Convert_to_bytes.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Math library/Heron's formula/Java_Problems.Topics-Math_library-Heron's_formula.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Math library/Heron's formula/Java_Problems.Topics-Math_library-Heron's_formula.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Math library/Heron's formula/Java_Problems.Topics-Math_library-Heron's_formula.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Declaring functionality with interfaces/Area of a circle/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Declaring functionality with interfaces/Area of a circle/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Declaring functionality with interfaces/Area of a circle/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Declaring functionality with interfaces/Area of a circle/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Declaring functionality with interfaces/Marker interface/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Declaring functionality with interfaces/Marker interface/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Declaring functionality with interfaces/Marker interface/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Declaring functionality with interfaces/Marker interface/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Declaring functionality with interfaces/Modeling a School Scenario with Teachers and Students/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Declaring functionality with interfaces/Modeling a School Scenario with Teachers and Students/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Declaring functionality with interfaces/Modeling a School Scenario with Teachers and Students/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Declaring functionality with interfaces/Modeling a School Scenario with Teachers and Students/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Input streams/Convert to bytes/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Input streams/Convert to bytes/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Input streams/Convert to bytes/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Input streams/Convert to bytes/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Math library/Heron's formula/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Math library/Heron's formula/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Math library/Heron's formula/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Math library/Heron's formula/task.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.0/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.0/checksums/checksums.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.0/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.0/checksums/sha1-checksums.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.0/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.0/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.0/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.0/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.0/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.0/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.0/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.0/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/Declaring functionality with interfaces/lesson-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Declaring functionality with interfaces/lesson-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/Input streams/lesson-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Input streams/lesson-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/Math library/Pow/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Math library/Pow/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/Math library/lesson-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Math library/lesson-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/Processing strings/Generating passwords/out/production/classes/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Processing strings/Generating passwords/out/production/classes/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/Processing strings/Generating passwords/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Processing strings/Generating passwords/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/course-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/course-remote-info.yaml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,6 +80,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Enum" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -99,6 +144,7 @@
     <setting file="file://$PROJECT_DIR$/Topics/Inner classes/Why do we need inner classes/src/Task.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Topics/Inner classes/Your vehicle/src/Main.java" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Topics/Input streams/Byte vs character input streams/src/Task.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Topics/Input streams/Convert to bytes/src/Main.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Topics/Input streams/Count words/src/Main.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Topics/Input streams/Read into an array/src/Task.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Topics/Input streams/Reverse input text/src/Main.java" root0="FORCE_HIGHLIGHTING" />
@@ -150,6 +196,7 @@
     <setting file="file://$PROJECT_DIR$/Topics/LocalDateTime/The passed hours since the beginning of year/src/Main.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Topics/LocalDateTime/Theory/src/Task.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Topics/Math library/Existing methods/src/Task.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Topics/Math library/Heron's formula/src/Main.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Topics/Math library/Match method callings and their results/src/Task.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Topics/Math library/Method from java.lang.Math class and their results/src/Task.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Topics/Math library/Pow/src/Main.java" root0="FORCE_HIGHLIGHTING" />
@@ -203,6 +250,7 @@
     <setting file="file://$PROJECT_DIR$/Topics/Processing strings/Determine the output/src/Task.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Topics/Processing strings/Determine the value/src/Task.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Topics/Processing strings/Generating passwords/src/Main.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Topics/Processing strings/Generating passwords/src/Test.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Topics/Processing strings/Move the first N characters/src/Main.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Topics/Processing strings/Parse url/src/Main.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Topics/Processing strings/Theory/src/Task.java" root0="FORCE_HIGHLIGHTING" />
@@ -243,6 +291,9 @@
     <setting file="file://$PROJECT_DIR$/Topics/Type Bounds/Writing a class/src/Main.java" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="ProjectId" id="2WLL0yTj647ZV54wYgid6wynz8h" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="autoscrollFromSource" value="true" />
     <option name="autoscrollToSource" value="true" />
@@ -252,6 +303,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Edu.Yaml.Migrate": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "last_opened_file_path": "/home/vadim/java_learn",
     "node.js.detected.package.eslint": "true",
@@ -329,12 +381,24 @@
       <workItem from="1708448931150" duration="3939000" />
       <workItem from="1708517606709" duration="1986000" />
       <workItem from="1708530832918" duration="7385000" />
-      <workItem from="1708606543021" duration="4533000" />
+      <workItem from="1708606543021" duration="6530000" />
+      <workItem from="1708686606591" duration="4062000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
