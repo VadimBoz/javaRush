@@ -8,7 +8,7 @@
         <option name="testRunner" value="PLATFORM" />
         <option name="distributionType" value="WRAPPED" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="gradleJvm" value="#JAVA_INTERNAL" />
+        <option name="gradleJvm" value="21 (3)" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
@@ -22,6 +22,15 @@
             <option value="$PROJECT_DIR$/JavaRushTasks/JavaRushTasks/3.JavaMultithreading" />
             <option value="$PROJECT_DIR$/JavaRushTasks/JavaRushTasks/4.JavaCollections" />
             <option value="$PROJECT_DIR$/JavaRushTasks/JavaRushTasks/5.OnlineInternship" />
+            <option value="$PROJECT_DIR$/Topics/ArrayList/Adding items" />
+            <option value="$PROJECT_DIR$/Topics/ArrayList/Concat positive numbers" />
+            <option value="$PROJECT_DIR$/Topics/ArrayList/Creating list" />
+            <option value="$PROJECT_DIR$/Topics/ArrayList/Find the nearest number" />
+            <option value="$PROJECT_DIR$/Topics/ArrayList/How to get an element by the index" />
+            <option value="$PROJECT_DIR$/Topics/ArrayList/Output the list's elements" />
+            <option value="$PROJECT_DIR$/Topics/ArrayList/Powers of indexes" />
+            <option value="$PROJECT_DIR$/Topics/ArrayList/The behavior of methods" />
+            <option value="$PROJECT_DIR$/Topics/ArrayList/Theory" />
             <option value="$PROJECT_DIR$/Topics/Debugging techniques/Assertion" />
             <option value="$PROJECT_DIR$/Topics/Debugging techniques/Catching and handling division errors in code" />
             <option value="$PROJECT_DIR$/Topics/Debugging techniques/Development approach" />
@@ -179,6 +188,17 @@
             <option value="$PROJECT_DIR$/Topics/Processing strings/Move the first N characters" />
             <option value="$PROJECT_DIR$/Topics/Processing strings/Parse url" />
             <option value="$PROJECT_DIR$/Topics/Processing strings/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Retrieving Class instances/Class object test" />
+            <option value="$PROJECT_DIR$/Topics/Retrieving Class instances/Class retrieval" />
+            <option value="$PROJECT_DIR$/Topics/Retrieving Class instances/Code output" />
+            <option value="$PROJECT_DIR$/Topics/Retrieving Class instances/Find the Method" />
+            <option value="$PROJECT_DIR$/Topics/Retrieving Class instances/Getting Superclass" />
+            <option value="$PROJECT_DIR$/Topics/Retrieving Class instances/Retrieve class name" />
+            <option value="$PROJECT_DIR$/Topics/Retrieving Class instances/Select statements" />
+            <option value="$PROJECT_DIR$/Topics/Retrieving Class instances/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Retrieving Class instances/forName method syntax" />
+            <option value="$PROJECT_DIR$/Topics/Retrieving Class instances/getClass method" />
+            <option value="$PROJECT_DIR$/Topics/Retrieving Class instances/myClass variable" />
             <option value="$PROJECT_DIR$/Topics/Scanning the input/Print strings in the reverse order" />
             <option value="$PROJECT_DIR$/Topics/Scanning the input/Printing each word in a new line" />
             <option value="$PROJECT_DIR$/Topics/Scanning the input/Printing strings in the same order" />
@@ -195,6 +215,13 @@
             <option value="$PROJECT_DIR$/Topics/The Collections framework overview/Squaring numbers" />
             <option value="$PROJECT_DIR$/Topics/The Collections framework overview/Supported collections" />
             <option value="$PROJECT_DIR$/Topics/The Collections framework overview/Theory" />
+            <option value="$PROJECT_DIR$/Topics/The List interface/Count the value occurrences" />
+            <option value="$PROJECT_DIR$/Topics/The List interface/Equal lists" />
+            <option value="$PROJECT_DIR$/Topics/The List interface/Implementations" />
+            <option value="$PROJECT_DIR$/Topics/The List interface/Results of operations" />
+            <option value="$PROJECT_DIR$/Topics/The List interface/Select correct assignments" />
+            <option value="$PROJECT_DIR$/Topics/The List interface/Setting a new name" />
+            <option value="$PROJECT_DIR$/Topics/The List interface/Theory" />
             <option value="$PROJECT_DIR$/Topics/Try with resources/Can be fixed" />
             <option value="$PROJECT_DIR$/Topics/Try with resources/Countries" />
             <option value="$PROJECT_DIR$/Topics/Try with resources/Mission statement" />

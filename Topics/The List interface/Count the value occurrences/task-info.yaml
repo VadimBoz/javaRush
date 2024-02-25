@@ -1,0 +1,33 @@
+type: code
+files:
+  - name: src/Main.java
+    visible: true
+    highlight_level: NONE
+    text: |-
+      class Counter {
+      
+          public static boolean checkTheSameNumberOfTimes(int elem, List<Integer> list1, List<Integer> list2) {
+              // implement the method
+              return false;
+          }
+      }
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/2503#comment
+status: Failed
+feedback:
+  message: "Failed test #1 of 8. Runtime error\n\nThis is a sample test from the problem\
+    \ statement!\n\nTest input:\n3\n8 8 3 3 2\n1 3 3 2\n\nCorrect output:\ntrue\n\n\
+    Your code output:\n\n\nError:\nException in thread \"main\" java.lang.NumberFormatException:\
+    \ For input string: \"\"\n\tat java.base/java.lang.NumberFormatException.forInputString(NumberFormatException.java:67)\n\
+    \tat java.base/java.lang.Integer.parseInt(Integer.java:678)\n\tat java.base/java.lang.Integer.parseInt(Integer.java:786)\n\
+    \tat Counter.lambda$main$2(Main.java:22)\n\tat java.base/java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:197)\n\
+    \tat java.base/java.util.Spliterators$ArraySpliterator.forEachRemaining(Spliterators.java:992)\n\
+    \tat java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509)\n\
+    \tat java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499)\n\
+    \tat java.base/java.util.stream.ReduceOps$ReduceOp.evaluateSequential(ReduceOps.java:921)\n\
+    \tat java.base/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234)\n\
+    \tat java.base/java.util.stream.ReferencePipeline.collect(ReferencePipeline.java:682)\n\
+    \tat Counter.main(Main.java:23)\n"
+  time: "Sun, 25 Feb 2024 11:59:42 UTC"
+record: -1
+submission_language: java17

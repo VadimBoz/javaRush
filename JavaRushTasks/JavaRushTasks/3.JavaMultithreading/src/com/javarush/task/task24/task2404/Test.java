@@ -1,4 +1,4 @@
-package com.javarush.task.task24.task2405;
+package com.javarush.task.task24.task2404;
 
 import java.io.*;
 import java.nio.file.Path;
