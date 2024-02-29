@@ -1,11 +1,11 @@
 type: choice
 is_multiple_choice: true
 options:
-  - text: doE
-  - text: doA
-  - text: doB
   - text: doD
   - text: doC
+  - text: doA
+  - text: doB
+  - text: doE
 files:
   - name: src/Task.java
     visible: true

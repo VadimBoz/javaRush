@@ -27,3 +27,6 @@ content:
   - Retrieving Class instances
   - ArrayList
   - The List interface
+  - The Set interface
+  - Standard functional interfaces
+  - Optional

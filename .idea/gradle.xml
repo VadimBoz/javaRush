@@ -8,7 +8,7 @@
         <option name="testRunner" value="PLATFORM" />
         <option name="distributionType" value="WRAPPED" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="gradleJvm" value="21 (3)" />
+        <option name="gradleJvm" value="openjdk-21" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
@@ -169,6 +169,14 @@
             <option value="$PROJECT_DIR$/Topics/Nested classes/Scope, scope and scope" />
             <option value="$PROJECT_DIR$/Topics/Nested classes/Theory" />
             <option value="$PROJECT_DIR$/Topics/Nested classes/To be static or not to be" />
+            <option value="$PROJECT_DIR$/Topics/Optional/A suitable method" />
+            <option value="$PROJECT_DIR$/Topics/Optional/Avoiding exceptions" />
+            <option value="$PROJECT_DIR$/Topics/Optional/Check an Optional value" />
+            <option value="$PROJECT_DIR$/Topics/Optional/Create an Optional value" />
+            <option value="$PROJECT_DIR$/Topics/Optional/Sum up optional values" />
+            <option value="$PROJECT_DIR$/Topics/Optional/The address book" />
+            <option value="$PROJECT_DIR$/Topics/Optional/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Optional/What is Optional" />
             <option value="$PROJECT_DIR$/Topics/Period and Duration classes/Extracting from a Duration unit" />
             <option value="$PROJECT_DIR$/Topics/Period and Duration classes/Extracting from a Period unit" />
             <option value="$PROJECT_DIR$/Topics/Period and Duration classes/The correct Duration unit" />
@@ -205,6 +213,13 @@
             <option value="$PROJECT_DIR$/Topics/Scanning the input/Reading a number" />
             <option value="$PROJECT_DIR$/Topics/Scanning the input/Reorder the sequence" />
             <option value="$PROJECT_DIR$/Topics/Scanning the input/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Standard functional interfaces/Accounts" />
+            <option value="$PROJECT_DIR$/Topics/Standard functional interfaces/Describe the function" />
+            <option value="$PROJECT_DIR$/Topics/Standard functional interfaces/Interface matching" />
+            <option value="$PROJECT_DIR$/Topics/Standard functional interfaces/Package java.util.function" />
+            <option value="$PROJECT_DIR$/Topics/Standard functional interfaces/Select suitable interfaces" />
+            <option value="$PROJECT_DIR$/Topics/Standard functional interfaces/Ternary operator" />
+            <option value="$PROJECT_DIR$/Topics/Standard functional interfaces/Theory" />
             <option value="$PROJECT_DIR$/Topics/The Collections framework overview/A package" />
             <option value="$PROJECT_DIR$/Topics/The Collections framework overview/Blacklist" />
             <option value="$PROJECT_DIR$/Topics/The Collections framework overview/Collection interfaces" />
@@ -215,13 +230,23 @@
             <option value="$PROJECT_DIR$/Topics/The Collections framework overview/Squaring numbers" />
             <option value="$PROJECT_DIR$/Topics/The Collections framework overview/Supported collections" />
             <option value="$PROJECT_DIR$/Topics/The Collections framework overview/Theory" />
+            <option value="$PROJECT_DIR$/Topics/The List interface/Backward indexes" />
             <option value="$PROJECT_DIR$/Topics/The List interface/Count the value occurrences" />
             <option value="$PROJECT_DIR$/Topics/The List interface/Equal lists" />
+            <option value="$PROJECT_DIR$/Topics/The List interface/Greek letters" />
             <option value="$PROJECT_DIR$/Topics/The List interface/Implementations" />
+            <option value="$PROJECT_DIR$/Topics/The List interface/Mutable lists" />
             <option value="$PROJECT_DIR$/Topics/The List interface/Results of operations" />
             <option value="$PROJECT_DIR$/Topics/The List interface/Select correct assignments" />
             <option value="$PROJECT_DIR$/Topics/The List interface/Setting a new name" />
+            <option value="$PROJECT_DIR$/Topics/The List interface/Similarities between lists and arrays" />
             <option value="$PROJECT_DIR$/Topics/The List interface/Theory" />
+            <option value="$PROJECT_DIR$/Topics/The Set interface/Comparing sets" />
+            <option value="$PROJECT_DIR$/Topics/The Set interface/Creating a set" />
+            <option value="$PROJECT_DIR$/Topics/The Set interface/Elements of a set" />
+            <option value="$PROJECT_DIR$/Topics/The Set interface/Implementations" />
+            <option value="$PROJECT_DIR$/Topics/The Set interface/Match methods and their purposes" />
+            <option value="$PROJECT_DIR$/Topics/The Set interface/Theory" />
             <option value="$PROJECT_DIR$/Topics/Try with resources/Can be fixed" />
             <option value="$PROJECT_DIR$/Topics/Try with resources/Countries" />
             <option value="$PROJECT_DIR$/Topics/Try with resources/Mission statement" />

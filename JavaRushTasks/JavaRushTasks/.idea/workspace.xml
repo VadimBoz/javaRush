@@ -5,232 +5,202 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8a9c2848-0864-419d-ba1c-a0669c6ee00f" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/../../.idea/modules/Topics/ArrayList/Adding items/Java_Problems.Topics-ArrayList-Adding_items.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../.idea/modules/Topics/ArrayList/Adding items/Java_Problems.Topics-ArrayList-Adding_items.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../.idea/modules/Topics/ArrayList/Adding items/Java_Problems.Topics-ArrayList-Adding_items.test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../.idea/modules/Topics/ArrayList/Concat positive numbers/Java_Problems.Topics-ArrayList-Concat_positive_numbers.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../.idea/modules/Topics/ArrayList/Concat positive numbers/Java_Problems.Topics-ArrayList-Concat_positive_numbers.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../.idea/modules/Topics/ArrayList/Concat positive numbers/Java_Problems.Topics-ArrayList-Concat_positive_numbers.test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../.idea/modules/Topics/ArrayList/Creating list/Java_Problems.Topics-ArrayList-Creating_list.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../.idea/modules/Topics/ArrayList/Creating list/Java_Problems.Topics-ArrayList-Creating_list.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../.idea/modules/Topics/ArrayList/Creating list/Java_Problems.Topics-ArrayList-Creating_list.test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../.idea/modules/Topics/ArrayList/Find the nearest number/Java_Problems.Topics-ArrayList-Find_the_nearest_number.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../.idea/modules/Topics/ArrayList/Find the nearest number/Java_Problems.Topics-ArrayList-Find_the_nearest_number.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../.idea/modules/Topics/ArrayList/Find the nearest number/Java_Problems.Topics-ArrayList-Find_the_nearest_number.test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../.idea/modules/Topics/ArrayList/How to get an element by the index/Java_Problems.Topics-ArrayList-How_to_get_an_element_by_the_index.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../.idea/modules/Topics/ArrayList/How to get an element by the index/Java_Problems.Topics-ArrayList-How_to_get_an_element_by_the_index.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../.idea/modules/Topics/ArrayList/How to get an element by the index/Java_Problems.Topics-ArrayList-How_to_get_an_element_by_the_index.test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../.idea/modules/Topics/ArrayList/Output the list's elements/Java_Problems.Topics-ArrayList-Output_the_list's_elements.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../.idea/modules/Topics/ArrayList/Output the list's elements/Java_Problems.Topics-ArrayList-Output_the_list's_elements.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../.idea/modules/Topics/ArrayList/Output the list's elements/Java_Problems.Topics-ArrayList-Output_the_list's_elements.test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../.idea/modules/Topics/ArrayList/Powers of indexes/Java_Problems.Topics-ArrayList-Powers_of_indexes.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../.idea/modules/Topics/ArrayList/Powers of indexes/Java_Problems.Topics-ArrayList-Powers_of_indexes.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../.idea/modules/Topics/ArrayList/Powers of indexes/Java_Problems.Topics-ArrayList-Powers_of_indexes.test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../.idea/modules/Topics/ArrayList/The behavior of methods/Java_Problems.Topics-ArrayList-The_behavior_of_methods.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../.idea/modules/Topics/ArrayList/The behavior of methods/Java_Problems.Topics-ArrayList-The_behavior_of_methods.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../.idea/modules/Topics/ArrayList/The behavior of methods/Java_Problems.Topics-ArrayList-The_behavior_of_methods.test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../.idea/modules/Topics/ArrayList/Theory/Java_Problems.Topics-ArrayList-Theory.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../.idea/modules/Topics/ArrayList/Theory/Java_Problems.Topics-ArrayList-Theory.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../.idea/modules/Topics/ArrayList/Theory/Java_Problems.Topics-ArrayList-Theory.test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../.idea/modules/Topics/Declaring functionality with interfaces/Area of a circle/Java_Problems.Topics-Declaring_functionality_with_interfaces-Area_of_a_circle.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../.idea/modules/Topics/Declaring functionality with interfaces/Area of a circle/Java_Problems.Topics-Declaring_functionality_with_interfaces-Area_of_a_circle.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../.idea/modules/Topics/Declaring functionality with interfaces/Area of a circle/Java_Problems.Topics-Declaring_functionality_with_interfaces-Area_of_a_circle.test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../.idea/modules/Topics/Declaring functionality with interfaces/Marker interface/Java_Problems.Topics-Declaring_functionality_with_interfaces-Marker_interface.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../.idea/modules/Topics/Declaring functionality with interfaces/Marker interface/Java_Problems.Topics-Declaring_functionality_with_interfaces-Marker_interface.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../.idea/modules/Topics/Declaring functionality with interfaces/Marker interface/Java_Problems.Topics-Declaring_functionality_with_interfaces-Marker_interface.test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../.idea/modules/Topics/Declaring functionality with interfaces/Modeling a School Scenario with Teachers and Students/Java_Problems.Topics-Declaring_functionality_with_interfaces-Modeling_a_School_Scenario_with_Teachers_and_Students.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../.idea/modules/Topics/Declaring functionality with interfaces/Modeling a School Scenario with Teachers and Students/Java_Problems.Topics-Declaring_functionality_with_interfaces-Modeling_a_School_Scenario_with_Teachers_and_Students.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../.idea/modules/Topics/Declaring functionality with interfaces/Modeling a School Scenario with Teachers and Students/Java_Problems.Topics-Declaring_functionality_with_interfaces-Modeling_a_School_Scenario_with_Teachers_and_Students.test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../.idea/modules/Topics/Retrieving Class instances/Class object test/Java_Problems.Topics-Retrieving_Class_instances-Class_object_test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../.idea/modules/Topics/Retrieving Class instances/Class object test/Java_Problems.Topics-Retrieving_Class_instances-Class_object_test.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../.idea/modules/Topics/Retrieving Class instances/Class object test/Java_Problems.Topics-Retrieving_Class_instances-Class_object_test.test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../.idea/modules/Topics/Retrieving Class instances/Class retrieval/Java_Problems.Topics-Retrieving_Class_instances-Class_retrieval.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../.idea/modules/Topics/Retrieving Class instances/Class retrieval/Java_Problems.Topics-Retrieving_Class_instances-Class_retrieval.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../.idea/modules/Topics/Retrieving Class instances/Class retrieval/Java_Problems.Topics-Retrieving_Class_instances-Class_retrieval.test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../.idea/modules/Topics/Retrieving Class instances/Code output/Java_Problems.Topics-Retrieving_Class_instances-Code_output.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../.idea/modules/Topics/Retrieving Class instances/Code output/Java_Problems.Topics-Retrieving_Class_instances-Code_output.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../.idea/modules/Topics/Retrieving Class instances/Code output/Java_Problems.Topics-Retrieving_Class_instances-Code_output.test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../.idea/modules/Topics/Retrieving Class instances/Find the Method/Java_Problems.Topics-Retrieving_Class_instances-Find_the_Method.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../.idea/modules/Topics/Retrieving Class instances/Find the Method/Java_Problems.Topics-Retrieving_Class_instances-Find_the_Method.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../.idea/modules/Topics/Retrieving Class instances/Find the Method/Java_Problems.Topics-Retrieving_Class_instances-Find_the_Method.test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../.idea/modules/Topics/Retrieving Class instances/Getting Superclass/Java_Problems.Topics-Retrieving_Class_instances-Getting_Superclass.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../.idea/modules/Topics/Retrieving Class instances/Getting Superclass/Java_Problems.Topics-Retrieving_Class_instances-Getting_Superclass.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../.idea/modules/Topics/Retrieving Class instances/Getting Superclass/Java_Problems.Topics-Retrieving_Class_instances-Getting_Superclass.test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../.idea/modules/Topics/Retrieving Class instances/Retrieve class name/Java_Problems.Topics-Retrieving_Class_instances-Retrieve_class_name.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../.idea/modules/Topics/Retrieving Class instances/Retrieve class name/Java_Problems.Topics-Retrieving_Class_instances-Retrieve_class_name.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../.idea/modules/Topics/Retrieving Class instances/Retrieve class name/Java_Problems.Topics-Retrieving_Class_instances-Retrieve_class_name.test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../.idea/modules/Topics/Retrieving Class instances/Select statements/Java_Problems.Topics-Retrieving_Class_instances-Select_statements.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../.idea/modules/Topics/Retrieving Class instances/Select statements/Java_Problems.Topics-Retrieving_Class_instances-Select_statements.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../.idea/modules/Topics/Retrieving Class instances/Select statements/Java_Problems.Topics-Retrieving_Class_instances-Select_statements.test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../.idea/modules/Topics/Retrieving Class instances/Theory/Java_Problems.Topics-Retrieving_Class_instances-Theory.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../.idea/modules/Topics/Retrieving Class instances/Theory/Java_Problems.Topics-Retrieving_Class_instances-Theory.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../.idea/modules/Topics/Retrieving Class instances/Theory/Java_Problems.Topics-Retrieving_Class_instances-Theory.test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../.idea/modules/Topics/Retrieving Class instances/forName method syntax/Java_Problems.Topics-Retrieving_Class_instances-forName_method_syntax.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../.idea/modules/Topics/Retrieving Class instances/forName method syntax/Java_Problems.Topics-Retrieving_Class_instances-forName_method_syntax.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../.idea/modules/Topics/Retrieving Class instances/forName method syntax/Java_Problems.Topics-Retrieving_Class_instances-forName_method_syntax.test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../.idea/modules/Topics/Retrieving Class instances/getClass method/Java_Problems.Topics-Retrieving_Class_instances-getClass_method.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../.idea/modules/Topics/Retrieving Class instances/getClass method/Java_Problems.Topics-Retrieving_Class_instances-getClass_method.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../.idea/modules/Topics/Retrieving Class instances/getClass method/Java_Problems.Topics-Retrieving_Class_instances-getClass_method.test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../.idea/modules/Topics/Retrieving Class instances/myClass variable/Java_Problems.Topics-Retrieving_Class_instances-myClass_variable.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../.idea/modules/Topics/Retrieving Class instances/myClass variable/Java_Problems.Topics-Retrieving_Class_instances-myClass_variable.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../.idea/modules/Topics/Retrieving Class instances/myClass variable/Java_Problems.Topics-Retrieving_Class_instances-myClass_variable.test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../.idea/modules/Topics/The List interface/Count the value occurrences/Java_Problems.Topics-The_List_interface-Count_the_value_occurrences.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../.idea/modules/Topics/The List interface/Count the value occurrences/Java_Problems.Topics-The_List_interface-Count_the_value_occurrences.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../.idea/modules/Topics/The List interface/Count the value occurrences/Java_Problems.Topics-The_List_interface-Count_the_value_occurrences.test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../.idea/modules/Topics/The List interface/Equal lists/Java_Problems.Topics-The_List_interface-Equal_lists.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../.idea/modules/Topics/The List interface/Equal lists/Java_Problems.Topics-The_List_interface-Equal_lists.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../.idea/modules/Topics/The List interface/Equal lists/Java_Problems.Topics-The_List_interface-Equal_lists.test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../.idea/modules/Topics/The List interface/Implementations/Java_Problems.Topics-The_List_interface-Implementations.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../.idea/modules/Topics/The List interface/Implementations/Java_Problems.Topics-The_List_interface-Implementations.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../.idea/modules/Topics/The List interface/Implementations/Java_Problems.Topics-The_List_interface-Implementations.test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../.idea/modules/Topics/The List interface/Results of operations/Java_Problems.Topics-The_List_interface-Results_of_operations.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../.idea/modules/Topics/The List interface/Results of operations/Java_Problems.Topics-The_List_interface-Results_of_operations.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../.idea/modules/Topics/The List interface/Results of operations/Java_Problems.Topics-The_List_interface-Results_of_operations.test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../.idea/modules/Topics/The List interface/Select correct assignments/Java_Problems.Topics-The_List_interface-Select_correct_assignments.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../.idea/modules/Topics/The List interface/Select correct assignments/Java_Problems.Topics-The_List_interface-Select_correct_assignments.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../.idea/modules/Topics/The List interface/Select correct assignments/Java_Problems.Topics-The_List_interface-Select_correct_assignments.test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../.idea/modules/Topics/The List interface/Setting a new name/Java_Problems.Topics-The_List_interface-Setting_a_new_name.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../.idea/modules/Topics/The List interface/Setting a new name/Java_Problems.Topics-The_List_interface-Setting_a_new_name.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../.idea/modules/Topics/The List interface/Setting a new name/Java_Problems.Topics-The_List_interface-Setting_a_new_name.test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../.idea/modules/Topics/The List interface/Theory/Java_Problems.Topics-The_List_interface-Theory.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../.idea/modules/Topics/The List interface/Theory/Java_Problems.Topics-The_List_interface-Theory.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../.idea/modules/Topics/The List interface/Theory/Java_Problems.Topics-The_List_interface-Theory.test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task24/task2407/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task24/task2407/Mouse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task24/task2407/Pet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task24/task2407/Sayable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task24/task2407/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task24/task2407/Util.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task24/task2407/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task24/task2408/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task24/task2408/Mouse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task24/task2408/Pet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task24/task2408/Sayable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task24/task2408/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task24/task2408/SuperDog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task24/task2408/Util.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task24/task2408/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task24/task2409/Item.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task24/task2409/Jeans.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task24/task2409/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task24/task2409/Util.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task24/task2409/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Topics/ArrayList/Adding items/src/Task.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Topics/ArrayList/Adding items/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Topics/ArrayList/Adding items/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Topics/ArrayList/Adding items/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Topics/ArrayList/Concat positive numbers/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Topics/ArrayList/Concat positive numbers/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Topics/ArrayList/Concat positive numbers/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Topics/ArrayList/Concat positive numbers/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Topics/ArrayList/Creating list/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Topics/ArrayList/Creating list/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Topics/ArrayList/Creating list/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Topics/ArrayList/Creating list/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Topics/ArrayList/Find the nearest number/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Topics/ArrayList/Find the nearest number/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Topics/ArrayList/Find the nearest number/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Topics/ArrayList/Find the nearest number/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Topics/ArrayList/How to get an element by the index/src/Task.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Topics/ArrayList/How to get an element by the index/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Topics/ArrayList/How to get an element by the index/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Topics/ArrayList/How to get an element by the index/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Topics/ArrayList/Output the list's elements/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Topics/ArrayList/Output the list's elements/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Topics/ArrayList/Output the list's elements/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Topics/ArrayList/Output the list's elements/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Topics/ArrayList/Powers of indexes/src/Task.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Topics/ArrayList/Powers of indexes/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Topics/ArrayList/Powers of indexes/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Topics/ArrayList/Powers of indexes/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Topics/ArrayList/The behavior of methods/src/Task.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Topics/ArrayList/The behavior of methods/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Topics/ArrayList/The behavior of methods/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Topics/ArrayList/The behavior of methods/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Topics/ArrayList/Theory/src/Task.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Topics/ArrayList/Theory/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Topics/ArrayList/Theory/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Topics/ArrayList/Theory/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Topics/ArrayList/lesson-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Topics/Retrieving Class instances/Class object test/src/Task.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Topics/Retrieving Class instances/Class object test/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Topics/Retrieving Class instances/Class object test/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Topics/Retrieving Class instances/Class object test/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Topics/Retrieving Class instances/Class retrieval/src/Task.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Topics/Retrieving Class instances/Class retrieval/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Topics/Retrieving Class instances/Class retrieval/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Topics/Retrieving Class instances/Class retrieval/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Topics/Retrieving Class instances/Code output/src/Task.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Topics/Retrieving Class instances/Code output/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Topics/Retrieving Class instances/Code output/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Topics/Retrieving Class instances/Code output/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Topics/Retrieving Class instances/Find the Method/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Topics/Retrieving Class instances/Find the Method/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Topics/Retrieving Class instances/Find the Method/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Topics/Retrieving Class instances/Find the Method/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Topics/Retrieving Class instances/Getting Superclass/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Topics/Retrieving Class instances/Getting Superclass/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Topics/Retrieving Class instances/Getting Superclass/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Topics/Retrieving Class instances/Getting Superclass/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Topics/Retrieving Class instances/Retrieve class name/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Topics/Retrieving Class instances/Retrieve class name/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Topics/Retrieving Class instances/Retrieve class name/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Topics/Retrieving Class instances/Retrieve class name/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Topics/Retrieving Class instances/Select statements/src/Task.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Topics/Retrieving Class instances/Select statements/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Topics/Retrieving Class instances/Select statements/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Topics/Retrieving Class instances/Select statements/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Topics/Retrieving Class instances/Theory/src/Task.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Topics/Retrieving Class instances/Theory/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Topics/Retrieving Class instances/Theory/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Topics/Retrieving Class instances/Theory/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Topics/Retrieving Class instances/forName method syntax/src/Task.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Topics/Retrieving Class instances/forName method syntax/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Topics/Retrieving Class instances/forName method syntax/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Topics/Retrieving Class instances/forName method syntax/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Topics/Retrieving Class instances/forName method/answer.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Topics/Retrieving Class instances/forName method/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Topics/Retrieving Class instances/forName method/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Topics/Retrieving Class instances/forName method/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Topics/Retrieving Class instances/getClass method/src/Task.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Topics/Retrieving Class instances/getClass method/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Topics/Retrieving Class instances/getClass method/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Topics/Retrieving Class instances/getClass method/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Topics/Retrieving Class instances/lesson-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Topics/Retrieving Class instances/myClass variable/src/Task.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Topics/Retrieving Class instances/myClass variable/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Topics/Retrieving Class instances/myClass variable/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Topics/Retrieving Class instances/myClass variable/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Topics/The List interface/Count the value occurrences/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Topics/The List interface/Count the value occurrences/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Topics/The List interface/Count the value occurrences/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Topics/The List interface/Count the value occurrences/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Topics/The List interface/Equal lists/src/Task.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Topics/The List interface/Equal lists/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Topics/The List interface/Equal lists/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Topics/The List interface/Equal lists/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Topics/The List interface/Implementations/src/Task.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Topics/The List interface/Implementations/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Topics/The List interface/Implementations/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Topics/The List interface/Implementations/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Topics/The List interface/Results of operations/src/Task.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Topics/The List interface/Results of operations/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Topics/The List interface/Results of operations/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Topics/The List interface/Results of operations/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Topics/The List interface/Select correct assignments/src/Task.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Topics/The List interface/Select correct assignments/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Topics/The List interface/Select correct assignments/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Topics/The List interface/Select correct assignments/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Topics/The List interface/Setting a new name/src/Task.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Topics/The List interface/Setting a new name/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Topics/The List interface/Setting a new name/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Topics/The List interface/Setting a new name/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Topics/The List interface/Theory/src/Task.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Topics/The List interface/Theory/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Topics/The List interface/Theory/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Topics/The List interface/Theory/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Topics/The List interface/lesson-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/modules/Topics/Optional/A suitable method/Java_Problems.Topics-Optional-A_suitable_method.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/modules/Topics/Optional/A suitable method/Java_Problems.Topics-Optional-A_suitable_method.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/modules/Topics/Optional/A suitable method/Java_Problems.Topics-Optional-A_suitable_method.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/modules/Topics/Optional/Avoiding exceptions/Java_Problems.Topics-Optional-Avoiding_exceptions.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/modules/Topics/Optional/Avoiding exceptions/Java_Problems.Topics-Optional-Avoiding_exceptions.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/modules/Topics/Optional/Avoiding exceptions/Java_Problems.Topics-Optional-Avoiding_exceptions.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/modules/Topics/Optional/Check an Optional value/Java_Problems.Topics-Optional-Check_an_Optional_value.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/modules/Topics/Optional/Check an Optional value/Java_Problems.Topics-Optional-Check_an_Optional_value.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/modules/Topics/Optional/Check an Optional value/Java_Problems.Topics-Optional-Check_an_Optional_value.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/modules/Topics/Optional/Create an Optional value/Java_Problems.Topics-Optional-Create_an_Optional_value.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/modules/Topics/Optional/Create an Optional value/Java_Problems.Topics-Optional-Create_an_Optional_value.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/modules/Topics/Optional/Create an Optional value/Java_Problems.Topics-Optional-Create_an_Optional_value.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/modules/Topics/Optional/Sum up optional values/Java_Problems.Topics-Optional-Sum_up_optional_values.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/modules/Topics/Optional/Sum up optional values/Java_Problems.Topics-Optional-Sum_up_optional_values.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/modules/Topics/Optional/Sum up optional values/Java_Problems.Topics-Optional-Sum_up_optional_values.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/modules/Topics/Optional/The address book/Java_Problems.Topics-Optional-The_address_book.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/modules/Topics/Optional/The address book/Java_Problems.Topics-Optional-The_address_book.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/modules/Topics/Optional/The address book/Java_Problems.Topics-Optional-The_address_book.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/modules/Topics/Optional/Theory/Java_Problems.Topics-Optional-Theory.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/modules/Topics/Optional/Theory/Java_Problems.Topics-Optional-Theory.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/modules/Topics/Optional/Theory/Java_Problems.Topics-Optional-Theory.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/modules/Topics/Optional/What is Optional/Java_Problems.Topics-Optional-What_is_Optional.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/modules/Topics/Optional/What is Optional/Java_Problems.Topics-Optional-What_is_Optional.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/modules/Topics/Optional/What is Optional/Java_Problems.Topics-Optional-What_is_Optional.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/modules/Topics/Standard functional interfaces/Accounts/Java_Problems.Topics-Standard_functional_interfaces-Accounts.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/modules/Topics/Standard functional interfaces/Accounts/Java_Problems.Topics-Standard_functional_interfaces-Accounts.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/modules/Topics/Standard functional interfaces/Accounts/Java_Problems.Topics-Standard_functional_interfaces-Accounts.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/modules/Topics/Standard functional interfaces/Describe the function/Java_Problems.Topics-Standard_functional_interfaces-Describe_the_function.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/modules/Topics/Standard functional interfaces/Describe the function/Java_Problems.Topics-Standard_functional_interfaces-Describe_the_function.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/modules/Topics/Standard functional interfaces/Describe the function/Java_Problems.Topics-Standard_functional_interfaces-Describe_the_function.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/modules/Topics/Standard functional interfaces/Interface matching/Java_Problems.Topics-Standard_functional_interfaces-Interface_matching.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/modules/Topics/Standard functional interfaces/Interface matching/Java_Problems.Topics-Standard_functional_interfaces-Interface_matching.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/modules/Topics/Standard functional interfaces/Interface matching/Java_Problems.Topics-Standard_functional_interfaces-Interface_matching.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/modules/Topics/Standard functional interfaces/Package java.util.function/Java_Problems.Topics-Standard_functional_interfaces-Package_java.util.function.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/modules/Topics/Standard functional interfaces/Package java.util.function/Java_Problems.Topics-Standard_functional_interfaces-Package_java.util.function.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/modules/Topics/Standard functional interfaces/Package java.util.function/Java_Problems.Topics-Standard_functional_interfaces-Package_java.util.function.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/modules/Topics/Standard functional interfaces/Select suitable interfaces/Java_Problems.Topics-Standard_functional_interfaces-Select_suitable_interfaces.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/modules/Topics/Standard functional interfaces/Select suitable interfaces/Java_Problems.Topics-Standard_functional_interfaces-Select_suitable_interfaces.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/modules/Topics/Standard functional interfaces/Select suitable interfaces/Java_Problems.Topics-Standard_functional_interfaces-Select_suitable_interfaces.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/modules/Topics/Standard functional interfaces/Ternary operator/Java_Problems.Topics-Standard_functional_interfaces-Ternary_operator.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/modules/Topics/Standard functional interfaces/Ternary operator/Java_Problems.Topics-Standard_functional_interfaces-Ternary_operator.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/modules/Topics/Standard functional interfaces/Ternary operator/Java_Problems.Topics-Standard_functional_interfaces-Ternary_operator.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/modules/Topics/Standard functional interfaces/Theory/Java_Problems.Topics-Standard_functional_interfaces-Theory.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/modules/Topics/Standard functional interfaces/Theory/Java_Problems.Topics-Standard_functional_interfaces-Theory.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/modules/Topics/Standard functional interfaces/Theory/Java_Problems.Topics-Standard_functional_interfaces-Theory.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/modules/Topics/The List interface/Backward indexes/Java_Problems.Topics-The_List_interface-Backward_indexes.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/modules/Topics/The List interface/Backward indexes/Java_Problems.Topics-The_List_interface-Backward_indexes.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/modules/Topics/The List interface/Backward indexes/Java_Problems.Topics-The_List_interface-Backward_indexes.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/modules/Topics/The List interface/Greek letters/Java_Problems.Topics-The_List_interface-Greek_letters.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/modules/Topics/The List interface/Greek letters/Java_Problems.Topics-The_List_interface-Greek_letters.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/modules/Topics/The List interface/Greek letters/Java_Problems.Topics-The_List_interface-Greek_letters.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/modules/Topics/The List interface/Mutable lists/Java_Problems.Topics-The_List_interface-Mutable_lists.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/modules/Topics/The List interface/Mutable lists/Java_Problems.Topics-The_List_interface-Mutable_lists.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/modules/Topics/The List interface/Mutable lists/Java_Problems.Topics-The_List_interface-Mutable_lists.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/modules/Topics/The List interface/Similarities between lists and arrays/Java_Problems.Topics-The_List_interface-Similarities_between_lists_and_arrays.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/modules/Topics/The List interface/Similarities between lists and arrays/Java_Problems.Topics-The_List_interface-Similarities_between_lists_and_arrays.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/modules/Topics/The List interface/Similarities between lists and arrays/Java_Problems.Topics-The_List_interface-Similarities_between_lists_and_arrays.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/modules/Topics/The Set interface/Comparing sets/Java_Problems.Topics-The_Set_interface-Comparing_sets.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/modules/Topics/The Set interface/Comparing sets/Java_Problems.Topics-The_Set_interface-Comparing_sets.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/modules/Topics/The Set interface/Comparing sets/Java_Problems.Topics-The_Set_interface-Comparing_sets.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/modules/Topics/The Set interface/Creating a set/Java_Problems.Topics-The_Set_interface-Creating_a_set.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/modules/Topics/The Set interface/Creating a set/Java_Problems.Topics-The_Set_interface-Creating_a_set.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/modules/Topics/The Set interface/Creating a set/Java_Problems.Topics-The_Set_interface-Creating_a_set.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/modules/Topics/The Set interface/Elements of a set/Java_Problems.Topics-The_Set_interface-Elements_of_a_set.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/modules/Topics/The Set interface/Elements of a set/Java_Problems.Topics-The_Set_interface-Elements_of_a_set.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/modules/Topics/The Set interface/Elements of a set/Java_Problems.Topics-The_Set_interface-Elements_of_a_set.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/modules/Topics/The Set interface/Implementations/Java_Problems.Topics-The_Set_interface-Implementations.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/modules/Topics/The Set interface/Implementations/Java_Problems.Topics-The_Set_interface-Implementations.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/modules/Topics/The Set interface/Implementations/Java_Problems.Topics-The_Set_interface-Implementations.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/modules/Topics/The Set interface/Match methods and their purposes/Java_Problems.Topics-The_Set_interface-Match_methods_and_their_purposes.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/modules/Topics/The Set interface/Match methods and their purposes/Java_Problems.Topics-The_Set_interface-Match_methods_and_their_purposes.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/modules/Topics/The Set interface/Match methods and their purposes/Java_Problems.Topics-The_Set_interface-Match_methods_and_their_purposes.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/modules/Topics/The Set interface/Theory/Java_Problems.Topics-The_Set_interface-Theory.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/modules/Topics/The Set interface/Theory/Java_Problems.Topics-The_Set_interface-Theory.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/modules/Topics/The Set interface/Theory/Java_Problems.Topics-The_Set_interface-Theory.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task24/task2410/Iterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task24/task2410/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task24/task2410/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task24/task2411/C.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task24/task2411/JustAnInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task24/task2411/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task24/task2411/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task24/task2412/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task24/task2412/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Topics/Optional/A suitable method/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Topics/Optional/A suitable method/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Topics/Optional/A suitable method/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Topics/Optional/A suitable method/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Topics/Optional/Avoiding exceptions/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Topics/Optional/Avoiding exceptions/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Topics/Optional/Avoiding exceptions/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Topics/Optional/Avoiding exceptions/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Topics/Optional/Check an Optional value/out/production/classes/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Topics/Optional/Check an Optional value/out/production/classes/ValueProvider.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Topics/Optional/Check an Optional value/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Topics/Optional/Check an Optional value/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Topics/Optional/Check an Optional value/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Topics/Optional/Check an Optional value/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Topics/Optional/Create an Optional value/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Topics/Optional/Create an Optional value/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Topics/Optional/Create an Optional value/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Topics/Optional/Create an Optional value/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Topics/Optional/Sum up optional values/out/production/classes/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Topics/Optional/Sum up optional values/out/production/classes/ValueProvider.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Topics/Optional/Sum up optional values/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Topics/Optional/Sum up optional values/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Topics/Optional/Sum up optional values/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Topics/Optional/Sum up optional values/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Topics/Optional/The address book/out/production/classes/AddressBook.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Topics/Optional/The address book/out/production/classes/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Topics/Optional/The address book/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Topics/Optional/The address book/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Topics/Optional/The address book/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Topics/Optional/The address book/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Topics/Optional/Theory/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Topics/Optional/Theory/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Topics/Optional/Theory/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Topics/Optional/Theory/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Topics/Optional/What is Optional/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Topics/Optional/What is Optional/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Topics/Optional/What is Optional/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Topics/Optional/What is Optional/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Topics/Optional/lesson-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Topics/Standard functional interfaces/Accounts/out/production/classes/Main$Account.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Topics/Standard functional interfaces/Accounts/out/production/classes/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Topics/Standard functional interfaces/Accounts/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Topics/Standard functional interfaces/Accounts/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Topics/Standard functional interfaces/Accounts/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Topics/Standard functional interfaces/Accounts/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Topics/Standard functional interfaces/Describe the function/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Topics/Standard functional interfaces/Describe the function/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Topics/Standard functional interfaces/Describe the function/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Topics/Standard functional interfaces/Describe the function/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Topics/Standard functional interfaces/Interface matching/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Topics/Standard functional interfaces/Interface matching/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Topics/Standard functional interfaces/Interface matching/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Topics/Standard functional interfaces/Interface matching/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Topics/Standard functional interfaces/Package java.util.function/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Topics/Standard functional interfaces/Package java.util.function/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Topics/Standard functional interfaces/Package java.util.function/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Topics/Standard functional interfaces/Package java.util.function/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Topics/Standard functional interfaces/Select suitable interfaces/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Topics/Standard functional interfaces/Select suitable interfaces/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Topics/Standard functional interfaces/Select suitable interfaces/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Topics/Standard functional interfaces/Select suitable interfaces/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Topics/Standard functional interfaces/Ternary operator/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Topics/Standard functional interfaces/Ternary operator/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Topics/Standard functional interfaces/Ternary operator/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Topics/Standard functional interfaces/Ternary operator/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Topics/Standard functional interfaces/Theory/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Topics/Standard functional interfaces/Theory/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Topics/Standard functional interfaces/Theory/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Topics/Standard functional interfaces/Theory/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Topics/Standard functional interfaces/lesson-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Topics/The List interface/Backward indexes/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Topics/The List interface/Backward indexes/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Topics/The List interface/Backward indexes/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Topics/The List interface/Backward indexes/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Topics/The List interface/Greek letters/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Topics/The List interface/Greek letters/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Topics/The List interface/Greek letters/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Topics/The List interface/Greek letters/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Topics/The List interface/Mutable lists/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Topics/The List interface/Mutable lists/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Topics/The List interface/Mutable lists/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Topics/The List interface/Mutable lists/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Topics/The List interface/Similarities between lists and arrays/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Topics/The List interface/Similarities between lists and arrays/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Topics/The List interface/Similarities between lists and arrays/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Topics/The List interface/Similarities between lists and arrays/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Topics/The Set interface/Comparing sets/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Topics/The Set interface/Comparing sets/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Topics/The Set interface/Comparing sets/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Topics/The Set interface/Comparing sets/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Topics/The Set interface/Creating a set/out/production/classes/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Topics/The Set interface/Creating a set/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Topics/The Set interface/Creating a set/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Topics/The Set interface/Creating a set/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Topics/The Set interface/Creating a set/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Topics/The Set interface/Elements of a set/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Topics/The Set interface/Elements of a set/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Topics/The Set interface/Elements of a set/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Topics/The Set interface/Elements of a set/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Topics/The Set interface/Implementations/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Topics/The Set interface/Implementations/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Topics/The Set interface/Implementations/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Topics/The Set interface/Implementations/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Topics/The Set interface/Match methods and their purposes/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Topics/The Set interface/Match methods and their purposes/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Topics/The Set interface/Match methods and their purposes/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Topics/The Set interface/Match methods and their purposes/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Topics/The Set interface/Theory/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Topics/The Set interface/Theory/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Topics/The Set interface/Theory/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Topics/The Set interface/Theory/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Topics/The Set interface/lesson-info.yaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../.gradle/8.0/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../.gradle/8.0/checksums/checksums.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../.gradle/8.0/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../.gradle/8.0/checksums/sha1-checksums.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../.gradle/8.0/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../.gradle/8.0/executionHistory/executionHistory.bin" afterDir="false" />
@@ -244,16 +214,23 @@
       <change beforePath="$PROJECT_DIR$/../../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task24/task2405/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task24/task2405/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task24/task2405/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task24/task2404/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task24/task2413/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task24/task2413/Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/JavaRushPlugin.properties" beforeDir="false" afterPath="$PROJECT_DIR$/JavaRushPlugin.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out.log" beforeDir="false" afterPath="$PROJECT_DIR$/out.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task24/task2405/Solution$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task24/task2405/Solution$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task24/task2405/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task24/task2405/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task24/task2405/Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Topics/Declaring functionality with interfaces/Area of a circle/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Topics/Declaring functionality with interfaces/Area of a circle/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Topics/Declaring functionality with interfaces/Area of a circle/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Topics/Declaring functionality with interfaces/Area of a circle/task-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Topics/Generic methods/Methods/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Topics/Generic methods/Methods/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task24/task2409/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task24/task2409/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task24/task2413/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task24/task2413/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Topics/Getters and setters/Theory/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Topics/Getters and setters/Theory/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Topics/Getters and setters/Theory/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../Topics/Getters and setters/Theory/task.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Topics/Keyword  super/Theory/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Topics/Keyword  super/Theory/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Topics/Keyword  super/Theory/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../Topics/Keyword  super/Theory/task.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Topics/Lambda expressions/Higher-order functions/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Topics/Lambda expressions/Higher-order functions/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Topics/Method overriding/Correctly overridden methods/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Topics/Method overriding/Correctly overridden methods/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Topics/Scanning the input/Theory/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Topics/Scanning the input/Theory/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Topics/Scanning the input/Theory/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../Topics/Scanning the input/Theory/task.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Topics/The List interface/Count the value occurrences/out/production/classes/Counter.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Topics/The List interface/Count the value occurrences/out/production/classes/Counter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Topics/The List interface/Count the value occurrences/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Topics/The List interface/Count the value occurrences/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Topics/The List interface/Count the value occurrences/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Topics/The List interface/Count the value occurrences/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Topics/The List interface/lesson-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Topics/The List interface/lesson-info.yaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Topics/section-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Topics/section-info.yaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../course-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../../course-remote-info.yaml" afterDir="false" />
     </list>
@@ -374,6 +351,7 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
@@ -661,7 +639,12 @@
       <workItem from="1708721244967" duration="2441000" />
       <workItem from="1708760061185" duration="13611000" />
       <workItem from="1708859643248" duration="1218000" />
-      <workItem from="1708861408154" duration="644000" />
+      <workItem from="1708861408154" duration="653000" />
+      <workItem from="1708866785794" duration="4633000" />
+      <workItem from="1708953219846" duration="2649000" />
+      <workItem from="1709046101672" duration="1217000" />
+      <workItem from="1709121559414" duration="599000" />
+      <workItem from="1709211068221" duration="611000" />
     </task>
     <servers />
   </component>
@@ -712,6 +695,9 @@
     <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
       <collection />
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

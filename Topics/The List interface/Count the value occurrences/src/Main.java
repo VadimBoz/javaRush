@@ -13,25 +13,4 @@ class Counter {
         return l1.size() == l2.size();
     }
 
-    public static void main(String[] args) {
-        Scanner scanner = new Scanner(System.in);
-        int n = Integer.parseInt(scanner.next());
-
-        List<Integer> l1 = Arrays.stream(scanner.nextLine().split(" "))
-                .map(Integer::parseInt)
-                .collect(Collectors.toList());
-
-        List<Integer> l2 = Arrays.stream(scanner.nextLine().split(" "))
-                .map(Integer::parseInt)
-                .collect(Collectors.toList());
-
-//        List<Integer> l1 = Arrays.stream(scanner.nextLine().split(" "))
-//                .map(s -> Integer.parseInt(s))
-//                .collect(Collectors.toList());
-//        List<Integer> l2 = Arrays.stream(scanner.nextLine().split(" "))
-//                .map(s -> Integer.parseInt(s))
-//                .collect(Collectors.toList());
-
-        System.out.println(checkTheSameNumberOfTimes(n, l1, l2));
-    }
 }
