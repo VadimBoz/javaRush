@@ -5,202 +5,339 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2ae9b21b-a47f-48dd-96ed-04b31d94a8b6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Optional/A suitable method/Java_Problems.Topics-Optional-A_suitable_method.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Optional/A suitable method/Java_Problems.Topics-Optional-A_suitable_method.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Optional/A suitable method/Java_Problems.Topics-Optional-A_suitable_method.test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Optional/Avoiding exceptions/Java_Problems.Topics-Optional-Avoiding_exceptions.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Optional/Avoiding exceptions/Java_Problems.Topics-Optional-Avoiding_exceptions.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Optional/Avoiding exceptions/Java_Problems.Topics-Optional-Avoiding_exceptions.test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Optional/Check an Optional value/Java_Problems.Topics-Optional-Check_an_Optional_value.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Optional/Check an Optional value/Java_Problems.Topics-Optional-Check_an_Optional_value.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Optional/Check an Optional value/Java_Problems.Topics-Optional-Check_an_Optional_value.test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Optional/Create an Optional value/Java_Problems.Topics-Optional-Create_an_Optional_value.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Optional/Create an Optional value/Java_Problems.Topics-Optional-Create_an_Optional_value.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Optional/Create an Optional value/Java_Problems.Topics-Optional-Create_an_Optional_value.test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Optional/Sum up optional values/Java_Problems.Topics-Optional-Sum_up_optional_values.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Optional/Sum up optional values/Java_Problems.Topics-Optional-Sum_up_optional_values.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Optional/Sum up optional values/Java_Problems.Topics-Optional-Sum_up_optional_values.test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Optional/The address book/Java_Problems.Topics-Optional-The_address_book.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Optional/The address book/Java_Problems.Topics-Optional-The_address_book.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Optional/The address book/Java_Problems.Topics-Optional-The_address_book.test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Optional/Theory/Java_Problems.Topics-Optional-Theory.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Optional/Theory/Java_Problems.Topics-Optional-Theory.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Optional/Theory/Java_Problems.Topics-Optional-Theory.test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Optional/What is Optional/Java_Problems.Topics-Optional-What_is_Optional.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Optional/What is Optional/Java_Problems.Topics-Optional-What_is_Optional.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Optional/What is Optional/Java_Problems.Topics-Optional-What_is_Optional.test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Standard functional interfaces/Accounts/Java_Problems.Topics-Standard_functional_interfaces-Accounts.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Standard functional interfaces/Accounts/Java_Problems.Topics-Standard_functional_interfaces-Accounts.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Standard functional interfaces/Accounts/Java_Problems.Topics-Standard_functional_interfaces-Accounts.test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Standard functional interfaces/Describe the function/Java_Problems.Topics-Standard_functional_interfaces-Describe_the_function.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Standard functional interfaces/Describe the function/Java_Problems.Topics-Standard_functional_interfaces-Describe_the_function.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Standard functional interfaces/Describe the function/Java_Problems.Topics-Standard_functional_interfaces-Describe_the_function.test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Standard functional interfaces/Interface matching/Java_Problems.Topics-Standard_functional_interfaces-Interface_matching.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Standard functional interfaces/Interface matching/Java_Problems.Topics-Standard_functional_interfaces-Interface_matching.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Standard functional interfaces/Interface matching/Java_Problems.Topics-Standard_functional_interfaces-Interface_matching.test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Standard functional interfaces/Package java.util.function/Java_Problems.Topics-Standard_functional_interfaces-Package_java.util.function.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Standard functional interfaces/Package java.util.function/Java_Problems.Topics-Standard_functional_interfaces-Package_java.util.function.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Standard functional interfaces/Package java.util.function/Java_Problems.Topics-Standard_functional_interfaces-Package_java.util.function.test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Standard functional interfaces/Select suitable interfaces/Java_Problems.Topics-Standard_functional_interfaces-Select_suitable_interfaces.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Standard functional interfaces/Select suitable interfaces/Java_Problems.Topics-Standard_functional_interfaces-Select_suitable_interfaces.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Standard functional interfaces/Select suitable interfaces/Java_Problems.Topics-Standard_functional_interfaces-Select_suitable_interfaces.test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Standard functional interfaces/Ternary operator/Java_Problems.Topics-Standard_functional_interfaces-Ternary_operator.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Standard functional interfaces/Ternary operator/Java_Problems.Topics-Standard_functional_interfaces-Ternary_operator.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Standard functional interfaces/Ternary operator/Java_Problems.Topics-Standard_functional_interfaces-Ternary_operator.test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Standard functional interfaces/Theory/Java_Problems.Topics-Standard_functional_interfaces-Theory.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Standard functional interfaces/Theory/Java_Problems.Topics-Standard_functional_interfaces-Theory.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Standard functional interfaces/Theory/Java_Problems.Topics-Standard_functional_interfaces-Theory.test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/The List interface/Backward indexes/Java_Problems.Topics-The_List_interface-Backward_indexes.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/The List interface/Backward indexes/Java_Problems.Topics-The_List_interface-Backward_indexes.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/The List interface/Backward indexes/Java_Problems.Topics-The_List_interface-Backward_indexes.test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/The List interface/Greek letters/Java_Problems.Topics-The_List_interface-Greek_letters.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/The List interface/Greek letters/Java_Problems.Topics-The_List_interface-Greek_letters.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/The List interface/Greek letters/Java_Problems.Topics-The_List_interface-Greek_letters.test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/The List interface/Mutable lists/Java_Problems.Topics-The_List_interface-Mutable_lists.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/The List interface/Mutable lists/Java_Problems.Topics-The_List_interface-Mutable_lists.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/The List interface/Mutable lists/Java_Problems.Topics-The_List_interface-Mutable_lists.test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/The List interface/Similarities between lists and arrays/Java_Problems.Topics-The_List_interface-Similarities_between_lists_and_arrays.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/The List interface/Similarities between lists and arrays/Java_Problems.Topics-The_List_interface-Similarities_between_lists_and_arrays.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/The List interface/Similarities between lists and arrays/Java_Problems.Topics-The_List_interface-Similarities_between_lists_and_arrays.test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/The Set interface/Comparing sets/Java_Problems.Topics-The_Set_interface-Comparing_sets.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/The Set interface/Comparing sets/Java_Problems.Topics-The_Set_interface-Comparing_sets.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/The Set interface/Comparing sets/Java_Problems.Topics-The_Set_interface-Comparing_sets.test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/The Set interface/Creating a set/Java_Problems.Topics-The_Set_interface-Creating_a_set.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/The Set interface/Creating a set/Java_Problems.Topics-The_Set_interface-Creating_a_set.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/The Set interface/Creating a set/Java_Problems.Topics-The_Set_interface-Creating_a_set.test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/The Set interface/Elements of a set/Java_Problems.Topics-The_Set_interface-Elements_of_a_set.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/The Set interface/Elements of a set/Java_Problems.Topics-The_Set_interface-Elements_of_a_set.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/The Set interface/Elements of a set/Java_Problems.Topics-The_Set_interface-Elements_of_a_set.test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/The Set interface/Implementations/Java_Problems.Topics-The_Set_interface-Implementations.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/The Set interface/Implementations/Java_Problems.Topics-The_Set_interface-Implementations.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/The Set interface/Implementations/Java_Problems.Topics-The_Set_interface-Implementations.test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/The Set interface/Match methods and their purposes/Java_Problems.Topics-The_Set_interface-Match_methods_and_their_purposes.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/The Set interface/Match methods and their purposes/Java_Problems.Topics-The_Set_interface-Match_methods_and_their_purposes.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/The Set interface/Match methods and their purposes/Java_Problems.Topics-The_Set_interface-Match_methods_and_their_purposes.test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/The Set interface/Theory/Java_Problems.Topics-The_Set_interface-Theory.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/The Set interface/Theory/Java_Problems.Topics-The_Set_interface-Theory.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/The Set interface/Theory/Java_Problems.Topics-The_Set_interface-Theory.test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaRushTasks/JavaRushTasks/3.JavaMultithreading/src/com/javarush/task/task24/task2410/Iterator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaRushTasks/JavaRushTasks/3.JavaMultithreading/src/com/javarush/task/task24/task2410/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaRushTasks/JavaRushTasks/3.JavaMultithreading/src/com/javarush/task/task24/task2410/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaRushTasks/JavaRushTasks/3.JavaMultithreading/src/com/javarush/task/task24/task2411/C.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaRushTasks/JavaRushTasks/3.JavaMultithreading/src/com/javarush/task/task24/task2411/JustAnInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaRushTasks/JavaRushTasks/3.JavaMultithreading/src/com/javarush/task/task24/task2411/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaRushTasks/JavaRushTasks/3.JavaMultithreading/src/com/javarush/task/task24/task2411/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaRushTasks/JavaRushTasks/3.JavaMultithreading/src/com/javarush/task/task24/task2412/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaRushTasks/JavaRushTasks/3.JavaMultithreading/src/com/javarush/task/task24/task2412/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Optional/A suitable method/src/Task.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Optional/A suitable method/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Optional/A suitable method/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Optional/A suitable method/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Optional/Avoiding exceptions/src/Task.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Optional/Avoiding exceptions/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Optional/Avoiding exceptions/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Optional/Avoiding exceptions/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Optional/Check an Optional value/out/production/classes/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Optional/Check an Optional value/out/production/classes/ValueProvider.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Optional/Check an Optional value/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Optional/Check an Optional value/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Optional/Check an Optional value/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Optional/Check an Optional value/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Optional/Create an Optional value/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Optional/Create an Optional value/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Optional/Create an Optional value/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Optional/Create an Optional value/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Optional/Sum up optional values/out/production/classes/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Optional/Sum up optional values/out/production/classes/ValueProvider.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Optional/Sum up optional values/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Optional/Sum up optional values/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Optional/Sum up optional values/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Optional/Sum up optional values/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Optional/The address book/out/production/classes/AddressBook.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Optional/The address book/out/production/classes/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Optional/The address book/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Optional/The address book/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Optional/The address book/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Optional/The address book/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Optional/Theory/src/Task.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Optional/Theory/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Optional/Theory/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Optional/Theory/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Optional/What is Optional/src/Task.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Optional/What is Optional/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Optional/What is Optional/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Optional/What is Optional/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Optional/lesson-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Standard functional interfaces/Accounts/out/production/classes/Main$Account.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Standard functional interfaces/Accounts/out/production/classes/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Standard functional interfaces/Accounts/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Standard functional interfaces/Accounts/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Standard functional interfaces/Accounts/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Standard functional interfaces/Accounts/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Standard functional interfaces/Describe the function/src/Task.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Standard functional interfaces/Describe the function/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Standard functional interfaces/Describe the function/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Standard functional interfaces/Describe the function/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Standard functional interfaces/Interface matching/src/Task.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Standard functional interfaces/Interface matching/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Standard functional interfaces/Interface matching/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Standard functional interfaces/Interface matching/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Standard functional interfaces/Package java.util.function/src/Task.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Standard functional interfaces/Package java.util.function/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Standard functional interfaces/Package java.util.function/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Standard functional interfaces/Package java.util.function/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Standard functional interfaces/Select suitable interfaces/src/Task.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Standard functional interfaces/Select suitable interfaces/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Standard functional interfaces/Select suitable interfaces/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Standard functional interfaces/Select suitable interfaces/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Standard functional interfaces/Ternary operator/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Standard functional interfaces/Ternary operator/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Standard functional interfaces/Ternary operator/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Standard functional interfaces/Ternary operator/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Standard functional interfaces/Theory/src/Task.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Standard functional interfaces/Theory/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Standard functional interfaces/Theory/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Standard functional interfaces/Theory/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Standard functional interfaces/lesson-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/The List interface/Backward indexes/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/The List interface/Backward indexes/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/The List interface/Backward indexes/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/The List interface/Backward indexes/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/The List interface/Greek letters/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/The List interface/Greek letters/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/The List interface/Greek letters/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/The List interface/Greek letters/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/The List interface/Mutable lists/src/Task.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/The List interface/Mutable lists/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/The List interface/Mutable lists/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/The List interface/Mutable lists/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/The List interface/Similarities between lists and arrays/src/Task.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/The List interface/Similarities between lists and arrays/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/The List interface/Similarities between lists and arrays/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/The List interface/Similarities between lists and arrays/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/The Set interface/Comparing sets/src/Task.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/The Set interface/Comparing sets/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/The Set interface/Comparing sets/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/The Set interface/Comparing sets/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/The Set interface/Creating a set/out/production/classes/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/The Set interface/Creating a set/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/The Set interface/Creating a set/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/The Set interface/Creating a set/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/The Set interface/Creating a set/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/The Set interface/Elements of a set/src/Task.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/The Set interface/Elements of a set/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/The Set interface/Elements of a set/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/The Set interface/Elements of a set/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/The Set interface/Implementations/src/Task.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/The Set interface/Implementations/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/The Set interface/Implementations/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/The Set interface/Implementations/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/The Set interface/Match methods and their purposes/src/Task.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/The Set interface/Match methods and their purposes/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/The Set interface/Match methods and their purposes/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/The Set interface/Match methods and their purposes/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/The Set interface/Theory/src/Task.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/The Set interface/Theory/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/The Set interface/Theory/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/The Set interface/Theory/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/The Set interface/lesson-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/BigDecimal/Ability to change/Java_Problems.Topics-BigDecimal-Ability_to_change.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/BigDecimal/Ability to change/Java_Problems.Topics-BigDecimal-Ability_to_change.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/BigDecimal/Ability to change/Java_Problems.Topics-BigDecimal-Ability_to_change.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/BigDecimal/Average/Java_Problems.Topics-BigDecimal-Average.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/BigDecimal/Average/Java_Problems.Topics-BigDecimal-Average.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/BigDecimal/Average/Java_Problems.Topics-BigDecimal-Average.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/BigDecimal/Gold mining/Java_Problems.Topics-BigDecimal-Gold_mining.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/BigDecimal/Gold mining/Java_Problems.Topics-BigDecimal-Gold_mining.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/BigDecimal/Gold mining/Java_Problems.Topics-BigDecimal-Gold_mining.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/BigDecimal/Initialization/Java_Problems.Topics-BigDecimal-Initialization.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/BigDecimal/Initialization/Java_Problems.Topics-BigDecimal-Initialization.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/BigDecimal/Initialization/Java_Problems.Topics-BigDecimal-Initialization.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/BigDecimal/Multiplication/Java_Problems.Topics-BigDecimal-Multiplication.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/BigDecimal/Multiplication/Java_Problems.Topics-BigDecimal-Multiplication.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/BigDecimal/Multiplication/Java_Problems.Topics-BigDecimal-Multiplication.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/BigDecimal/Round and power/Java_Problems.Topics-BigDecimal-Round_and_power.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/BigDecimal/Round and power/Java_Problems.Topics-BigDecimal-Round_and_power.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/BigDecimal/Round and power/Java_Problems.Topics-BigDecimal-Round_and_power.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/BigDecimal/Theory/Java_Problems.Topics-BigDecimal-Theory.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/BigDecimal/Theory/Java_Problems.Topics-BigDecimal-Theory.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/BigDecimal/Theory/Java_Problems.Topics-BigDecimal-Theory.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/BigInteger/An expression with large numbers/Java_Problems.Topics-BigInteger-An_expression_with_large_numbers.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/BigInteger/An expression with large numbers/Java_Problems.Topics-BigInteger-An_expression_with_large_numbers.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/BigInteger/An expression with large numbers/Java_Problems.Topics-BigInteger-An_expression_with_large_numbers.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/BigInteger/BigInteger facts/Java_Problems.Topics-BigInteger-BigInteger_facts.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/BigInteger/BigInteger facts/Java_Problems.Topics-BigInteger-BigInteger_facts.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/BigInteger/BigInteger facts/Java_Problems.Topics-BigInteger-BigInteger_facts.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/BigInteger/Double factorial/Java_Problems.Topics-BigInteger-Double_factorial.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/BigInteger/Double factorial/Java_Problems.Topics-BigInteger-Double_factorial.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/BigInteger/Double factorial/Java_Problems.Topics-BigInteger-Double_factorial.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/BigInteger/Multiplication/Java_Problems.Topics-BigInteger-Multiplication.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/BigInteger/Multiplication/Java_Problems.Topics-BigInteger-Multiplication.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/BigInteger/Multiplication/Java_Problems.Topics-BigInteger-Multiplication.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/BigInteger/Theory/Java_Problems.Topics-BigInteger-Theory.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/BigInteger/Theory/Java_Problems.Topics-BigInteger-Theory.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/BigInteger/Theory/Java_Problems.Topics-BigInteger-Theory.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/BigInteger/What can BigInteger store/Java_Problems.Topics-BigInteger-What_can_BigInteger_store.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/BigInteger/What can BigInteger store/Java_Problems.Topics-BigInteger-What_can_BigInteger_store.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/BigInteger/What can BigInteger store/Java_Problems.Topics-BigInteger-What_can_BigInteger_store.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/BigInteger/Where you can get BigInteger/Java_Problems.Topics-BigInteger-Where_you_can_get_BigInteger.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/BigInteger/Where you can get BigInteger/Java_Problems.Topics-BigInteger-Where_you_can_get_BigInteger.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/BigInteger/Where you can get BigInteger/Java_Problems.Topics-BigInteger-Where_you_can_get_BigInteger.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Comparable/Comparing objects/Java_Problems.Topics-Comparable-Comparing_objects.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Comparable/Comparing objects/Java_Problems.Topics-Comparable-Comparing_objects.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Comparable/Comparing objects/Java_Problems.Topics-Comparable-Comparing_objects.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Comparable/Implement Comparable/Java_Problems.Topics-Comparable-Implement_Comparable.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Comparable/Implement Comparable/Java_Problems.Topics-Comparable-Implement_Comparable.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Comparable/Implement Comparable/Java_Problems.Topics-Comparable-Implement_Comparable.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Comparable/Implement compareTo method/Java_Problems.Topics-Comparable-Implement_compareTo_method.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Comparable/Implement compareTo method/Java_Problems.Topics-Comparable-Implement_compareTo_method.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Comparable/Implement compareTo method/Java_Problems.Topics-Comparable-Implement_compareTo_method.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Comparable/Implement comparing by additional fields/Java_Problems.Topics-Comparable-Implement_comparing_by_additional_fields.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Comparable/Implement comparing by additional fields/Java_Problems.Topics-Comparable-Implement_comparing_by_additional_fields.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Comparable/Implement comparing by additional fields/Java_Problems.Topics-Comparable-Implement_comparing_by_additional_fields.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Comparable/Leaderboard/Java_Problems.Topics-Comparable-Leaderboard.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Comparable/Leaderboard/Java_Problems.Topics-Comparable-Leaderboard.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Comparable/Leaderboard/Java_Problems.Topics-Comparable-Leaderboard.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Comparable/Ratings/Java_Problems.Topics-Comparable-Ratings.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Comparable/Ratings/Java_Problems.Topics-Comparable-Ratings.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Comparable/Ratings/Java_Problems.Topics-Comparable-Ratings.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Comparable/Rewrite compareTo method/Java_Problems.Topics-Comparable-Rewrite_compareTo_method.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Comparable/Rewrite compareTo method/Java_Problems.Topics-Comparable-Rewrite_compareTo_method.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Comparable/Rewrite compareTo method/Java_Problems.Topics-Comparable-Rewrite_compareTo_method.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Comparable/Rules/Java_Problems.Topics-Comparable-Rules.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Comparable/Rules/Java_Problems.Topics-Comparable-Rules.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Comparable/Rules/Java_Problems.Topics-Comparable-Rules.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Comparable/Theory/Java_Problems.Topics-Comparable-Theory.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Comparable/Theory/Java_Problems.Topics-Comparable-Theory.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Comparable/Theory/Java_Problems.Topics-Comparable-Theory.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Comparable/Value class/Java_Problems.Topics-Comparable-Value_class.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Comparable/Value class/Java_Problems.Topics-Comparable-Value_class.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Comparable/Value class/Java_Problems.Topics-Comparable-Value_class.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Comparable/compareTo/Java_Problems.Topics-Comparable-compareTo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Comparable/compareTo/Java_Problems.Topics-Comparable-compareTo.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Comparable/compareTo/Java_Problems.Topics-Comparable-compareTo.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Instant/The Instant to a long/Java_Problems.Topics-Instant-The_Instant_to_a_long.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Instant/The Instant to a long/Java_Problems.Topics-Instant-The_Instant_to_a_long.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Instant/The Instant to a long/Java_Problems.Topics-Instant-The_Instant_to_a_long.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Instant/Theory/Java_Problems.Topics-Instant-Theory.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Instant/Theory/Java_Problems.Topics-Instant-Theory.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Instant/Theory/Java_Problems.Topics-Instant-Theory.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Standard functional interfaces/An infinite numbers supplier/Java_Problems.Topics-Standard_functional_interfaces-An_infinite_numbers_supplier.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Standard functional interfaces/An infinite numbers supplier/Java_Problems.Topics-Standard_functional_interfaces-An_infinite_numbers_supplier.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Standard functional interfaces/An infinite numbers supplier/Java_Problems.Topics-Standard_functional_interfaces-An_infinite_numbers_supplier.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Standard functional interfaces/Functional interfaces utilization/Java_Problems.Topics-Standard_functional_interfaces-Functional_interfaces_utilization.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Standard functional interfaces/Functional interfaces utilization/Java_Problems.Topics-Standard_functional_interfaces-Functional_interfaces_utilization.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Standard functional interfaces/Functional interfaces utilization/Java_Problems.Topics-Standard_functional_interfaces-Functional_interfaces_utilization.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Standard functional interfaces/Matching lambda expressions/Java_Problems.Topics-Standard_functional_interfaces-Matching_lambda_expressions.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Standard functional interfaces/Matching lambda expressions/Java_Problems.Topics-Standard_functional_interfaces-Matching_lambda_expressions.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Standard functional interfaces/Matching lambda expressions/Java_Problems.Topics-Standard_functional_interfaces-Matching_lambda_expressions.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Standard functional interfaces/Select correct statements/Java_Problems.Topics-Standard_functional_interfaces-Select_correct_statements.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Standard functional interfaces/Select correct statements/Java_Problems.Topics-Standard_functional_interfaces-Select_correct_statements.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Standard functional interfaces/Select correct statements/Java_Problems.Topics-Standard_functional_interfaces-Select_correct_statements.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/The List interface/Companies/Java_Problems.Topics-The_List_interface-Companies.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/The List interface/Companies/Java_Problems.Topics-The_List_interface-Companies.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/The List interface/Companies/Java_Problems.Topics-The_List_interface-Companies.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Wildcards/Find an equivalent/Java_Problems.Topics-Wildcards-Find_an_equivalent.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Wildcards/Find an equivalent/Java_Problems.Topics-Wildcards-Find_an_equivalent.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Wildcards/Find an equivalent/Java_Problems.Topics-Wildcards-Find_an_equivalent.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Wildcards/Get and Put pinciple in practice/Java_Problems.Topics-Wildcards-Get_and_Put_pinciple_in_practice.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Wildcards/Get and Put pinciple in practice/Java_Problems.Topics-Wildcards-Get_and_Put_pinciple_in_practice.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Wildcards/Get and Put pinciple in practice/Java_Problems.Topics-Wildcards-Get_and_Put_pinciple_in_practice.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Wildcards/Keywords/Java_Problems.Topics-Wildcards-Keywords.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Wildcards/Keywords/Java_Problems.Topics-Wildcards-Keywords.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Wildcards/Keywords/Java_Problems.Topics-Wildcards-Keywords.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Wildcards/Pets in boxes/Java_Problems.Topics-Wildcards-Pets_in_boxes.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Wildcards/Pets in boxes/Java_Problems.Topics-Wildcards-Pets_in_boxes.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Wildcards/Pets in boxes/Java_Problems.Topics-Wildcards-Pets_in_boxes.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Wildcards/Subtype relation/Java_Problems.Topics-Wildcards-Subtype_relation.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Wildcards/Subtype relation/Java_Problems.Topics-Wildcards-Subtype_relation.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Wildcards/Subtype relation/Java_Problems.Topics-Wildcards-Subtype_relation.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Wildcards/The result of the code (1)/Java_Problems.Topics-Wildcards-The_result_of_the_code__1_.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Wildcards/The result of the code (1)/Java_Problems.Topics-Wildcards-The_result_of_the_code__1_.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Wildcards/The result of the code (1)/Java_Problems.Topics-Wildcards-The_result_of_the_code__1_.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Wildcards/The result of the code (2)/Java_Problems.Topics-Wildcards-The_result_of_the_code__2_.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Wildcards/The result of the code (2)/Java_Problems.Topics-Wildcards-The_result_of_the_code__2_.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Wildcards/The result of the code (2)/Java_Problems.Topics-Wildcards-The_result_of_the_code__2_.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Wildcards/The result of the code/Java_Problems.Topics-Wildcards-The_result_of_the_code.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Wildcards/The result of the code/Java_Problems.Topics-Wildcards-The_result_of_the_code.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Wildcards/The result of the code/Java_Problems.Topics-Wildcards-The_result_of_the_code.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Wildcards/Theory/Java_Problems.Topics-Wildcards-Theory.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Wildcards/Theory/Java_Problems.Topics-Wildcards-Theory.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Wildcards/Theory/Java_Problems.Topics-Wildcards-Theory.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Wildcards/Upper-bound/Java_Problems.Topics-Wildcards-Upper-bound.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Wildcards/Upper-bound/Java_Problems.Topics-Wildcards-Upper-bound.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Wildcards/Upper-bound/Java_Problems.Topics-Wildcards-Upper-bound.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/ZonedDateTime and OffsetDateTime/The until() method/Java_Problems.Topics-ZonedDateTime_and_OffsetDateTime-The_until___method.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/ZonedDateTime and OffsetDateTime/The until() method/Java_Problems.Topics-ZonedDateTime_and_OffsetDateTime-The_until___method.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/ZonedDateTime and OffsetDateTime/The until() method/Java_Problems.Topics-ZonedDateTime_and_OffsetDateTime-The_until___method.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/ZonedDateTime and OffsetDateTime/Theory/Java_Problems.Topics-ZonedDateTime_and_OffsetDateTime-Theory.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/ZonedDateTime and OffsetDateTime/Theory/Java_Problems.Topics-ZonedDateTime_and_OffsetDateTime-Theory.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/ZonedDateTime and OffsetDateTime/Theory/Java_Problems.Topics-ZonedDateTime_and_OffsetDateTime-Theory.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaRushTasks/JavaRushTasks/3.JavaMultithreading/src/com/javarush/task/task24/task2412/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/BigDecimal/Ability to change/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/BigDecimal/Ability to change/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/BigDecimal/Ability to change/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/BigDecimal/Ability to change/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/BigDecimal/Average/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/BigDecimal/Average/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/BigDecimal/Average/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/BigDecimal/Average/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/BigDecimal/Conversion/answer.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/BigDecimal/Conversion/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/BigDecimal/Conversion/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/BigDecimal/Conversion/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/BigDecimal/Gold mining/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/BigDecimal/Gold mining/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/BigDecimal/Gold mining/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/BigDecimal/Gold mining/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/BigDecimal/Initialization/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/BigDecimal/Initialization/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/BigDecimal/Initialization/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/BigDecimal/Initialization/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/BigDecimal/Multiplication/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/BigDecimal/Multiplication/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/BigDecimal/Multiplication/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/BigDecimal/Multiplication/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/BigDecimal/Round and power/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/BigDecimal/Round and power/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/BigDecimal/Round and power/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/BigDecimal/Round and power/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/BigDecimal/Theory/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/BigDecimal/Theory/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/BigDecimal/Theory/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/BigDecimal/Theory/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/BigDecimal/lesson-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/BigInteger/An expression with large numbers/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/BigInteger/An expression with large numbers/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/BigInteger/An expression with large numbers/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/BigInteger/An expression with large numbers/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/BigInteger/BigInteger facts/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/BigInteger/BigInteger facts/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/BigInteger/BigInteger facts/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/BigInteger/BigInteger facts/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/BigInteger/Double factorial/out/production/classes/DoubleFactorial.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/BigInteger/Double factorial/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/BigInteger/Double factorial/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/BigInteger/Double factorial/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/BigInteger/Double factorial/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/BigInteger/Multiplication/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/BigInteger/Multiplication/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/BigInteger/Multiplication/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/BigInteger/Multiplication/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/BigInteger/Negate and subtract/answer.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/BigInteger/Negate and subtract/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/BigInteger/Negate and subtract/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/BigInteger/Negate and subtract/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/BigInteger/Theory/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/BigInteger/Theory/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/BigInteger/Theory/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/BigInteger/Theory/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/BigInteger/Value of result/answer.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/BigInteger/Value of result/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/BigInteger/Value of result/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/BigInteger/Value of result/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/BigInteger/What can BigInteger store/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/BigInteger/What can BigInteger store/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/BigInteger/What can BigInteger store/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/BigInteger/What can BigInteger store/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/BigInteger/Where you can get BigInteger/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/BigInteger/Where you can get BigInteger/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/BigInteger/Where you can get BigInteger/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/BigInteger/Where you can get BigInteger/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/BigInteger/lesson-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Comparable/Comparing objects/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Comparable/Comparing objects/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Comparable/Comparing objects/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Comparable/Comparing objects/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Comparable/Implement Comparable/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Comparable/Implement Comparable/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Comparable/Implement Comparable/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Comparable/Implement Comparable/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Comparable/Implement compareTo method/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Comparable/Implement compareTo method/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Comparable/Implement compareTo method/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Comparable/Implement compareTo method/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Comparable/Implement comparing by additional fields/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Comparable/Implement comparing by additional fields/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Comparable/Implement comparing by additional fields/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Comparable/Implement comparing by additional fields/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Comparable/Leaderboard/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Comparable/Leaderboard/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Comparable/Leaderboard/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Comparable/Leaderboard/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Comparable/Ratings/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Comparable/Ratings/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Comparable/Ratings/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Comparable/Ratings/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Comparable/Rewrite compareTo method/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Comparable/Rewrite compareTo method/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Comparable/Rewrite compareTo method/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Comparable/Rewrite compareTo method/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Comparable/Rules/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Comparable/Rules/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Comparable/Rules/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Comparable/Rules/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Comparable/Theory/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Comparable/Theory/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Comparable/Theory/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Comparable/Theory/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Comparable/Value class/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Comparable/Value class/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Comparable/Value class/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Comparable/Value class/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Comparable/compareTo/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Comparable/compareTo/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Comparable/compareTo/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Comparable/compareTo/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Comparable/lesson-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Instant/The Instant to a long/out/production/classes/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Instant/The Instant to a long/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Instant/The Instant to a long/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Instant/The Instant to a long/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Instant/The Instant to a long/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Instant/Theory/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Instant/Theory/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Instant/Theory/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Instant/Theory/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Instant/lesson-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Standard functional interfaces/An infinite numbers supplier/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Standard functional interfaces/An infinite numbers supplier/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Standard functional interfaces/An infinite numbers supplier/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Standard functional interfaces/An infinite numbers supplier/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Standard functional interfaces/Find a functional interface/answer.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Standard functional interfaces/Find a functional interface/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Standard functional interfaces/Find a functional interface/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Standard functional interfaces/Find a functional interface/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Standard functional interfaces/Functional interfaces utilization/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Standard functional interfaces/Functional interfaces utilization/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Standard functional interfaces/Functional interfaces utilization/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Standard functional interfaces/Functional interfaces utilization/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Standard functional interfaces/Matching lambda expressions/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Standard functional interfaces/Matching lambda expressions/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Standard functional interfaces/Matching lambda expressions/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Standard functional interfaces/Matching lambda expressions/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Standard functional interfaces/Select correct statements/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Standard functional interfaces/Select correct statements/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Standard functional interfaces/Select correct statements/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Standard functional interfaces/Select correct statements/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/The List interface/Companies/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/The List interface/Companies/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/The List interface/Companies/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/The List interface/Companies/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Wildcards/Find an equivalent/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Wildcards/Find an equivalent/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Wildcards/Find an equivalent/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Wildcards/Find an equivalent/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Wildcards/Get and Put pinciple in practice/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Wildcards/Get and Put pinciple in practice/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Wildcards/Get and Put pinciple in practice/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Wildcards/Get and Put pinciple in practice/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Wildcards/Keywords/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Wildcards/Keywords/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Wildcards/Keywords/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Wildcards/Keywords/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Wildcards/Pets in boxes/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Wildcards/Pets in boxes/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Wildcards/Pets in boxes/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Wildcards/Pets in boxes/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Wildcards/Subtype relation/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Wildcards/Subtype relation/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Wildcards/Subtype relation/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Wildcards/Subtype relation/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Wildcards/The result of the code (1)/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Wildcards/The result of the code (1)/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Wildcards/The result of the code (1)/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Wildcards/The result of the code (1)/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Wildcards/The result of the code (2)/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Wildcards/The result of the code (2)/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Wildcards/The result of the code (2)/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Wildcards/The result of the code (2)/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Wildcards/The result of the code/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Wildcards/The result of the code/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Wildcards/The result of the code/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Wildcards/The result of the code/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Wildcards/Theory/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Wildcards/Theory/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Wildcards/Theory/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Wildcards/Theory/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Wildcards/Upper-bound/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Wildcards/Upper-bound/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Wildcards/Upper-bound/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Wildcards/Upper-bound/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Wildcards/lesson-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/ZonedDateTime and OffsetDateTime/The until() method/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/ZonedDateTime and OffsetDateTime/The until() method/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/ZonedDateTime and OffsetDateTime/The until() method/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/ZonedDateTime and OffsetDateTime/The until() method/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/ZonedDateTime and OffsetDateTime/Theory/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/ZonedDateTime and OffsetDateTime/Theory/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/ZonedDateTime and OffsetDateTime/Theory/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/ZonedDateTime and OffsetDateTime/Theory/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/ZonedDateTime and OffsetDateTime/lesson-info.yaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/8.0/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.0/checksums/checksums.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/8.0/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.0/checksums/sha1-checksums.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/8.0/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.0/executionHistory/executionHistory.bin" afterDir="false" />
@@ -209,28 +346,26 @@
       <change beforePath="$PROJECT_DIR$/.gradle/8.0/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.0/fileHashes/fileHashes.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaRushTasks/JavaRushTasks/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaRushTasks/JavaRushTasks/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/JavaRushTasks/JavaRushTasks/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaRushTasks/JavaRushTasks/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaRushTasks/JavaRushTasks/3.JavaMultithreading/src/com/javarush/task/task24/task2413/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaRushTasks/JavaRushTasks/3.JavaMultithreading/src/com/javarush/task/task24/task2413/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaRushTasks/JavaRushTasks/JavaRushPlugin.properties" beforeDir="false" afterPath="$PROJECT_DIR$/JavaRushTasks/JavaRushTasks/JavaRushPlugin.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/JavaRushTasks/JavaRushTasks/out.log" beforeDir="false" afterPath="$PROJECT_DIR$/JavaRushTasks/JavaRushTasks/out.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaRushTasks/JavaRushTasks/out/production/3.JavaMultithreading/com/javarush/task/task24/task2409/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/JavaRushTasks/JavaRushTasks/out/production/3.JavaMultithreading/com/javarush/task/task24/task2409/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaRushTasks/JavaRushTasks/out/production/3.JavaMultithreading/com/javarush/task/task24/task2413/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/JavaRushTasks/JavaRushTasks/out/production/3.JavaMultithreading/com/javarush/task/task24/task2413/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Getters and setters/Theory/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Getters and setters/Theory/task-remote-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Getters and setters/Theory/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Getters and setters/Theory/task.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Keyword  super/Theory/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Keyword  super/Theory/task-remote-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Keyword  super/Theory/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Keyword  super/Theory/task.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Lambda expressions/Higher-order functions/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Lambda expressions/Higher-order functions/task-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Method overriding/Correctly overridden methods/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Method overriding/Correctly overridden methods/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/ArrayList/The behavior of methods/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/ArrayList/The behavior of methods/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/Declaring functionality with interfaces/Marker interface/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Declaring functionality with interfaces/Marker interface/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/Declaring functionality with interfaces/Properties of methods/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Declaring functionality with interfaces/Properties of methods/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/Declaring functionality with interfaces/Theory/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Declaring functionality with interfaces/Theory/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/Declaring functionality with interfaces/Theory/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Declaring functionality with interfaces/Theory/task.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/Declaring functionality with interfaces/Which methods must be overridden/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Declaring functionality with interfaces/Which methods must be overridden/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/Generic methods/Check for null/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Generic methods/Check for null/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/Optional/Avoiding exceptions/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Optional/Avoiding exceptions/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/Retrieving Class instances/forName method/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Retrieving Class instances/forName method/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/Scanning the input/Printing strings in the same order/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Scanning the input/Printing strings in the same order/task-remote-info.yaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Topics/Scanning the input/Theory/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Scanning the input/Theory/task-remote-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Scanning the input/Theory/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Scanning the input/Theory/task.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/The List interface/Count the value occurrences/out/production/classes/Counter.class" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/The List interface/Count the value occurrences/out/production/classes/Counter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/The List interface/Count the value occurrences/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/The List interface/Count the value occurrences/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/The List interface/Count the value occurrences/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/The List interface/Count the value occurrences/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/Standard functional interfaces/Ternary operator/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Standard functional interfaces/Ternary operator/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/Standard functional interfaces/lesson-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Standard functional interfaces/lesson-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/The List interface/Theory/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/The List interface/Theory/task-remote-info.yaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Topics/The List interface/lesson-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/The List interface/lesson-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/The Set interface/Implementations/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/The Set interface/Implementations/task-remote-info.yaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Topics/section-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/section-info.yaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/course-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/course-remote-info.yaml" afterDir="false" />
     </list>
@@ -282,6 +417,34 @@
     <setting file="file://$PROJECT_DIR$/Topics/ArrayList/Powers of indexes/src/Task.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Topics/ArrayList/The behavior of methods/src/Task.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Topics/ArrayList/Theory/src/Task.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Topics/BigDecimal/Ability to change/src/Task.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Topics/BigDecimal/Average/src/Main.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Topics/BigDecimal/Conversion/answer.txt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Topics/BigDecimal/Gold mining/src/Main.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Topics/BigDecimal/Initialization/src/Task.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Topics/BigDecimal/Multiplication/src/Main.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Topics/BigDecimal/Round and power/src/Main.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Topics/BigDecimal/Theory/src/Task.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Topics/BigInteger/An expression with large numbers/src/Main.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Topics/BigInteger/BigInteger facts/src/Task.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Topics/BigInteger/Double factorial/src/Main.java" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Topics/BigInteger/Multiplication/src/Task.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Topics/BigInteger/Negate and subtract/answer.txt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Topics/BigInteger/Theory/src/Task.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Topics/BigInteger/Value of result/answer.txt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Topics/BigInteger/What can BigInteger store/src/Task.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Topics/BigInteger/Where you can get BigInteger/src/Task.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Topics/Comparable/Comparing objects/src/Task.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Topics/Comparable/Implement Comparable/src/Task.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Topics/Comparable/Implement compareTo method/src/Main.java" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Topics/Comparable/Implement comparing by additional fields/src/Main.java" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Topics/Comparable/Leaderboard/src/Main.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Topics/Comparable/Ratings/src/Main.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Topics/Comparable/Rewrite compareTo method/src/Task.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Topics/Comparable/Rules/src/Task.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Topics/Comparable/Theory/src/Task.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Topics/Comparable/Value class/src/Main.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Topics/Comparable/compareTo/src/Task.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Topics/Debugging techniques/Assertion/src/Task.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Topics/Debugging techniques/Catching and handling division errors in code/src/Task.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Topics/Debugging techniques/Checking the argument/answer.txt" root0="FORCE_HIGHLIGHTING" />
@@ -346,6 +509,8 @@
     <setting file="file://$PROJECT_DIR$/Topics/Input streams/Read into an array/src/Task.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Topics/Input streams/Reverse input text/src/Main.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Topics/Input streams/Theory/src/Task.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Topics/Instant/The Instant to a long/src/Main.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Topics/Instant/Theory/src/Task.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Topics/Introduction to generic programming/Correct the program/src/Main.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Topics/Introduction to generic programming/Generic parameter values/src/Task.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Topics/Introduction to generic programming/Pastry packing optimization/src/Main.java" root0="SKIP_HIGHLIGHTING" />
@@ -478,9 +643,14 @@
     <setting file="file://$PROJECT_DIR$/Topics/Scanning the input/Reorder the sequence/src/Task.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Topics/Scanning the input/Theory/src/Task.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Topics/Standard functional interfaces/Accounts/src/Main.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Topics/Standard functional interfaces/An infinite numbers supplier/src/Main.java" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Topics/Standard functional interfaces/Describe the function/src/Task.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Topics/Standard functional interfaces/Find a functional interface/answer.txt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Topics/Standard functional interfaces/Functional interfaces utilization/src/Task.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Topics/Standard functional interfaces/Interface matching/src/Task.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Topics/Standard functional interfaces/Matching lambda expressions/src/Task.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Topics/Standard functional interfaces/Package java.util.function/src/Task.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Topics/Standard functional interfaces/Select correct statements/src/Task.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Topics/Standard functional interfaces/Select suitable interfaces/src/Task.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Topics/Standard functional interfaces/Ternary operator/src/Main.java" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Topics/Standard functional interfaces/Theory/src/Task.java" root0="FORCE_HIGHLIGHTING" />
@@ -496,6 +666,7 @@
     <setting file="file://$PROJECT_DIR$/Topics/The Collections framework overview/Supported collections/src/Task.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Topics/The Collections framework overview/Theory/src/Task.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Topics/The List interface/Backward indexes/src/Main.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Topics/The List interface/Companies/src/Main.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Topics/The List interface/Count the value occurrences/src/Main.java" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Topics/The List interface/Equal lists/src/Task.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Topics/The List interface/Greek letters/src/Main.java" root0="FORCE_HIGHLIGHTING" />
@@ -530,6 +701,17 @@
     <setting file="file://$PROJECT_DIR$/Topics/Type Bounds/The result of the code/src/Task.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Topics/Type Bounds/Theory/src/Task.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Topics/Type Bounds/Writing a class/src/Main.java" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Topics/Wildcards/Find an equivalent/src/Task.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Topics/Wildcards/Get and Put pinciple in practice/src/Task.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Topics/Wildcards/Keywords/src/Task.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Topics/Wildcards/Pets in boxes/src/Main.java" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Topics/Wildcards/Subtype relation/src/Task.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Topics/Wildcards/The result of the code (1)/src/Task.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Topics/Wildcards/The result of the code (2)/src/Task.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Topics/Wildcards/The result of the code/src/Task.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Topics/Wildcards/Theory/src/Task.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Topics/Wildcards/Upper-bound/src/Task.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Topics/ZonedDateTime and OffsetDateTime/The until() method/src/Main.java" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProjectId" id="2WLL0yTj647ZV54wYgid6wynz8h" />
   <component name="ProjectLevelVcsManager">
@@ -559,7 +741,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Apple">
+  <component name="RunManager">
     <configuration name="Apple" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Apple" />
       <module name="Java_Problems.Topics-Nested_classes-Make_slices.main" />
@@ -632,7 +814,13 @@
       <workItem from="1708953241083" duration="779000" />
       <workItem from="1709046126764" duration="4936000" />
       <workItem from="1709121576339" duration="5580000" />
-      <workItem from="1709211095271" duration="865000" />
+      <workItem from="1709211095271" duration="2467000" />
+      <workItem from="1709410020798" duration="3543000" />
+      <workItem from="1709466144695" duration="5629000" />
+      <workItem from="1709535245493" duration="5684000" />
+      <workItem from="1709746526813" duration="597000" />
+      <workItem from="1710020357313" duration="1845000" />
+      <workItem from="1710085795057" duration="1133000" />
     </task>
     <servers />
   </component>
@@ -667,6 +855,16 @@
           <url>file://$PROJECT_DIR$/Topics/Processing strings/Generating passwords/src/Main.java</url>
           <line>37</line>
           <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Topics/BigInteger/Double factorial/src/Main.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Topics/ZonedDateTime and OffsetDateTime/The until() method/src/Main.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="14" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/Topics/Polymorphism/Find mistake/src/Main.java</url>

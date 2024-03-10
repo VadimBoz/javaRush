@@ -23374,3 +23374,40 @@ Caused by: java.lang.IllegalStateException: Attempt to get TaskDescriptionView f
 2024-02-29 15:51:12 INFO  ApacheHttpClient.refreshUserInfo(305) - responseCode = 200
 2024-02-29 15:51:12 INFO  ApacheHttpClient.refreshUserInfo(311) - User information received.
 2024-02-29 15:51:12 INFO  ApacheHttpClient.startGA(36) - GAService started.
+2024-02-29 20:56:39 INFO  PluginProjectService.dispose(41) - PluginProjectService for disposed.
+2024-03-02 21:42:22 INFO  ProjectStartupHandler.runActivity(74) - ---------- Project opened ----------
+2024-03-02 21:42:22 INFO  ProjectStartupHandler.runActivity(75) - ---------- Version 4.03 ----------
+
+2024-03-02 21:42:22 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(602) - Waiting for server response.
+2024-03-02 21:42:22 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(602) - Waiting for server response.
+2024-03-02 21:42:22 INFO  ApacheHttpClient.refreshUserInfo(305) - responseCode = 200
+2024-03-02 21:42:22 INFO  ApacheHttpClient.refreshUserInfo(311) - User information received.
+2024-03-02 21:42:22 INFO  ApacheHttpClient.startGA(36) - GAService started.
+2024-03-03 00:25:56 INFO  PluginProjectService.dispose(41) - PluginProjectService for disposed.
+2024-03-03 14:08:18 INFO  ProjectStartupHandler.runActivity(74) - ---------- Project opened ----------
+2024-03-03 14:08:18 INFO  ProjectStartupHandler.runActivity(75) - ---------- Version 4.03 ----------
+
+2024-03-03 14:08:18 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(602) - Waiting for server response.
+2024-03-03 14:08:18 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(602) - Waiting for server response.
+2024-03-03 14:08:18 INFO  ApacheHttpClient.refreshUserInfo(305) - responseCode = 200
+2024-03-03 14:08:19 INFO  ApacheHttpClient.refreshUserInfo(311) - User information received.
+2024-03-03 14:08:19 INFO  ApacheHttpClient.startGA(36) - GAService started.
+2024-03-04 01:08:14 INFO  PluginProjectService.dispose(41) - PluginProjectService for disposed.
+2024-03-04 09:52:19 INFO  ProjectStartupHandler.runActivity(74) - ---------- Project opened ----------
+2024-03-04 09:52:19 INFO  ProjectStartupHandler.runActivity(75) - ---------- Version 4.03 ----------
+
+2024-03-04 09:52:19 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(602) - Waiting for server response.
+2024-03-04 09:52:19 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(602) - Waiting for server response.
+2024-03-04 09:52:19 INFO  ApacheHttpClient.refreshUserInfo(305) - responseCode = 200
+2024-03-04 09:52:19 INFO  ApacheHttpClient.refreshUserInfo(311) - User information received.
+2024-03-04 09:52:19 INFO  ApacheHttpClient.startGA(36) - GAService started.
+2024-03-04 20:37:27 INFO  PluginProjectService.dispose(41) - PluginProjectService for disposed.
+2024-03-06 20:36:05 INFO  ProjectStartupHandler.runActivity(74) - ---------- Project opened ----------
+2024-03-06 20:36:05 INFO  ProjectStartupHandler.runActivity(75) - ---------- Version 4.03 ----------
+
+2024-03-06 20:36:05 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(602) - Waiting for server response.
+2024-03-06 20:36:05 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(602) - Waiting for server response.
+2024-03-06 20:36:06 INFO  ApacheHttpClient.refreshUserInfo(305) - responseCode = 200
+2024-03-06 20:36:06 INFO  ApacheHttpClient.refreshUserInfo(311) - User information received.
+2024-03-06 20:36:06 INFO  ApacheHttpClient.startGA(36) - GAService started.
+2024-03-06 21:04:40 INFO  PluginProjectService.dispose(41) - PluginProjectService for disposed.

@@ -1,0 +1,24 @@
+type: code
+files:
+  - name: src/Main.java
+    visible: true
+    text: |-
+      import java.math.BigDecimal;
+      
+      class Main {
+          public static void main(String[] args) {
+              // write your code here
+          }
+      }
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/13515#comment
+status: Failed
+feedback:
+  message: "Failed test #1 of 6. Runtime error\n\nThis is a sample test from the problem\
+    \ statement!\n\nTest input:\n100\n100\nCorrect output:\n10000\n\nYour code output:\n\
+    \n\nError:\nException in thread \"main\" java.util.NoSuchElementException\n\t\
+    at java.base/java.util.Scanner.throwFor(Scanner.java:937)\n\tat java.base/java.util.Scanner.next(Scanner.java:1478)\n\
+    \tat Main.main(Main.java:11)\n"
+  time: "Sat, 09 Mar 2024 21:58:19 UTC"
+record: -1
+submission_language: java17

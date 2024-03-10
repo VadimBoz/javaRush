@@ -8,7 +8,7 @@
         <option name="testRunner" value="PLATFORM" />
         <option name="distributionType" value="WRAPPED" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="gradleJvm" value="openjdk-21" />
+        <option name="gradleJvm" value="#JAVA_INTERNAL" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
@@ -31,6 +31,31 @@
             <option value="$PROJECT_DIR$/Topics/ArrayList/Powers of indexes" />
             <option value="$PROJECT_DIR$/Topics/ArrayList/The behavior of methods" />
             <option value="$PROJECT_DIR$/Topics/ArrayList/Theory" />
+            <option value="$PROJECT_DIR$/Topics/BigDecimal/Ability to change" />
+            <option value="$PROJECT_DIR$/Topics/BigDecimal/Average" />
+            <option value="$PROJECT_DIR$/Topics/BigDecimal/Gold mining" />
+            <option value="$PROJECT_DIR$/Topics/BigDecimal/Initialization" />
+            <option value="$PROJECT_DIR$/Topics/BigDecimal/Multiplication" />
+            <option value="$PROJECT_DIR$/Topics/BigDecimal/Round and power" />
+            <option value="$PROJECT_DIR$/Topics/BigDecimal/Theory" />
+            <option value="$PROJECT_DIR$/Topics/BigInteger/An expression with large numbers" />
+            <option value="$PROJECT_DIR$/Topics/BigInteger/BigInteger facts" />
+            <option value="$PROJECT_DIR$/Topics/BigInteger/Double factorial" />
+            <option value="$PROJECT_DIR$/Topics/BigInteger/Multiplication" />
+            <option value="$PROJECT_DIR$/Topics/BigInteger/Theory" />
+            <option value="$PROJECT_DIR$/Topics/BigInteger/What can BigInteger store" />
+            <option value="$PROJECT_DIR$/Topics/BigInteger/Where you can get BigInteger" />
+            <option value="$PROJECT_DIR$/Topics/Comparable/Comparing objects" />
+            <option value="$PROJECT_DIR$/Topics/Comparable/Implement Comparable" />
+            <option value="$PROJECT_DIR$/Topics/Comparable/Implement compareTo method" />
+            <option value="$PROJECT_DIR$/Topics/Comparable/Implement comparing by additional fields" />
+            <option value="$PROJECT_DIR$/Topics/Comparable/Leaderboard" />
+            <option value="$PROJECT_DIR$/Topics/Comparable/Ratings" />
+            <option value="$PROJECT_DIR$/Topics/Comparable/Rewrite compareTo method" />
+            <option value="$PROJECT_DIR$/Topics/Comparable/Rules" />
+            <option value="$PROJECT_DIR$/Topics/Comparable/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Comparable/Value class" />
+            <option value="$PROJECT_DIR$/Topics/Comparable/compareTo" />
             <option value="$PROJECT_DIR$/Topics/Debugging techniques/Assertion" />
             <option value="$PROJECT_DIR$/Topics/Debugging techniques/Catching and handling division errors in code" />
             <option value="$PROJECT_DIR$/Topics/Debugging techniques/Development approach" />
@@ -93,6 +118,8 @@
             <option value="$PROJECT_DIR$/Topics/Input streams/Read into an array" />
             <option value="$PROJECT_DIR$/Topics/Input streams/Reverse input text" />
             <option value="$PROJECT_DIR$/Topics/Input streams/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Instant/The Instant to a long" />
+            <option value="$PROJECT_DIR$/Topics/Instant/Theory" />
             <option value="$PROJECT_DIR$/Topics/Introduction to generic programming/Correct the program" />
             <option value="$PROJECT_DIR$/Topics/Introduction to generic programming/Generic parameter values" />
             <option value="$PROJECT_DIR$/Topics/Introduction to generic programming/Pastry packing optimization" />
@@ -214,9 +241,13 @@
             <option value="$PROJECT_DIR$/Topics/Scanning the input/Reorder the sequence" />
             <option value="$PROJECT_DIR$/Topics/Scanning the input/Theory" />
             <option value="$PROJECT_DIR$/Topics/Standard functional interfaces/Accounts" />
+            <option value="$PROJECT_DIR$/Topics/Standard functional interfaces/An infinite numbers supplier" />
             <option value="$PROJECT_DIR$/Topics/Standard functional interfaces/Describe the function" />
+            <option value="$PROJECT_DIR$/Topics/Standard functional interfaces/Functional interfaces utilization" />
             <option value="$PROJECT_DIR$/Topics/Standard functional interfaces/Interface matching" />
+            <option value="$PROJECT_DIR$/Topics/Standard functional interfaces/Matching lambda expressions" />
             <option value="$PROJECT_DIR$/Topics/Standard functional interfaces/Package java.util.function" />
+            <option value="$PROJECT_DIR$/Topics/Standard functional interfaces/Select correct statements" />
             <option value="$PROJECT_DIR$/Topics/Standard functional interfaces/Select suitable interfaces" />
             <option value="$PROJECT_DIR$/Topics/Standard functional interfaces/Ternary operator" />
             <option value="$PROJECT_DIR$/Topics/Standard functional interfaces/Theory" />
@@ -231,6 +262,7 @@
             <option value="$PROJECT_DIR$/Topics/The Collections framework overview/Supported collections" />
             <option value="$PROJECT_DIR$/Topics/The Collections framework overview/Theory" />
             <option value="$PROJECT_DIR$/Topics/The List interface/Backward indexes" />
+            <option value="$PROJECT_DIR$/Topics/The List interface/Companies" />
             <option value="$PROJECT_DIR$/Topics/The List interface/Count the value occurrences" />
             <option value="$PROJECT_DIR$/Topics/The List interface/Equal lists" />
             <option value="$PROJECT_DIR$/Topics/The List interface/Greek letters" />
@@ -263,6 +295,18 @@
             <option value="$PROJECT_DIR$/Topics/Type Bounds/The result of the code" />
             <option value="$PROJECT_DIR$/Topics/Type Bounds/Theory" />
             <option value="$PROJECT_DIR$/Topics/Type Bounds/Writing a class" />
+            <option value="$PROJECT_DIR$/Topics/Wildcards/Find an equivalent" />
+            <option value="$PROJECT_DIR$/Topics/Wildcards/Get and Put pinciple in practice" />
+            <option value="$PROJECT_DIR$/Topics/Wildcards/Keywords" />
+            <option value="$PROJECT_DIR$/Topics/Wildcards/Pets in boxes" />
+            <option value="$PROJECT_DIR$/Topics/Wildcards/Subtype relation" />
+            <option value="$PROJECT_DIR$/Topics/Wildcards/The result of the code" />
+            <option value="$PROJECT_DIR$/Topics/Wildcards/The result of the code (1)" />
+            <option value="$PROJECT_DIR$/Topics/Wildcards/The result of the code (2)" />
+            <option value="$PROJECT_DIR$/Topics/Wildcards/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Wildcards/Upper-bound" />
+            <option value="$PROJECT_DIR$/Topics/ZonedDateTime and OffsetDateTime/The until() method" />
+            <option value="$PROJECT_DIR$/Topics/ZonedDateTime and OffsetDateTime/Theory" />
             <option value="$PROJECT_DIR$/util" />
           </set>
         </option>
